@@ -10132,6 +10132,8 @@ var app = (function() {
       "Paul McCartney - Maybe I'm Amazed",
       "Chicago - Saturday in the Park",
       "Jill Sobule - Cinnamon Park",
+      "Santana - Evil Ways",
+      "The Doobie Brothers - Listen to the Music",
    ]),
     On = {
       subscribe: ue(
@@ -14387,7 +14389,15 @@ var app = (function() {
             url: "https://soundcloud.com/jillsobule/cinnamon-park",
             answer: "Jill Sobule - Cinnamon Park",
           },
-  ],
+          {
+            url: "https://soundcloud.com/santana-official/evil-ways-2",
+            answer: "Santana - Evil Ways",
+          },
+          {
+            url: "https://soundcloud.com/thedoobiebrothers/listen-to-the-music-45-version",
+            answer: "The Doobie Brothers - Listen to the Music",
+          },
+],
         Pn
       ).subscribe,
     };
