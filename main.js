@@ -10134,6 +10134,10 @@ var app = (function() {
       "Jill Sobule - Cinnamon Park",
       "Santana - Evil Ways",
       "The Doobie Brothers - Listen to the Music",
+      "Indigo Girls - Get Together",
+      "The Stray Cats - Rock This Town",
+      "Living Colour - Cult of Personality",
+      "Foreigner - Urgent",
    ]),
     On = {
       subscribe: ue(
@@ -14396,6 +14400,26 @@ var app = (function() {
           {
             url: "https://soundcloud.com/thedoobiebrothers/listen-to-the-music-45-version",
             answer: "The Doobie Brothers - Listen to the Music",
+          },
+          {
+            url: "https://soundcloud.com/indigo-girls-official/get-together",
+            answer: "Indigo Girls - Get Together",
+          },
+          {
+            url: "https://soundcloud.com/stray-cats-official/rock-this-town-1999-digital",
+            answer: "The Stray Cats - Rock This Town",
+          },
+          {
+            url: "https://soundcloud.com/pete-townshend-official/let-my-love-open-the-door-1",
+            answer: "Pete Townshend - Let My Love Open the Door",
+          },
+          {
+            url: "https://soundcloud.com/livingcolour/cult-of-personality-2",
+            answer: "Living Colour - Cult of Personality",
+          },
+          {
+            url: "https://soundcloud.com/foreigner/urgent-2",
+            answer: "Foreigner - Urgent",
           },
 ],
         Pn
