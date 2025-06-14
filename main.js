@@ -10136,8 +10136,22 @@ var app = (function() {
       "The Doobie Brothers - Listen to the Music",
       "Indigo Girls - Get Together",
       "The Stray Cats - Rock This Town",
+      "Pete Townshend - Let My Love Open the Door",
       "Living Colour - Cult of Personality",
       "Foreigner - Urgent",
+      "Avenue Q - My Girlfriend, Who Lives in Canada",
+      "Dear Evan Hansen - Does Anybody Have a Map?",
+      "Beethoven - Symphony no 6, 3rd mvt",
+      "Saint-Saens - Carnival of the Animals, The Swan",
+      "Rose and Bruno Mars - Apt.",
+      "Sheryl Crow - If It Makes You Happy",
+      "Glenn Frey - The One You Love",
+      "Robbie Dupree - Steal Away",
+      "Blood, Sweat and Tears - Spinning Wheel",
+      "Del Amitri - Roll to Me",
+      "Daniel Powter - Bad Day",
+      "Pure Prairie League - Let Me Love You Tonight",
+      "Adele - Set Fire to the Rain",
    ]),
     On = {
       subscribe: ue(
@@ -14420,6 +14434,58 @@ var app = (function() {
           {
             url: "https://soundcloud.com/foreigner/urgent-2",
             answer: "Foreigner - Urgent",
+          },
+          {
+            url: "https://soundcloud.com/john-tartaglia-official/my-girlfriend-who-lives-in",
+            answer: "Avenue Q - My Girlfriend, Who Lives in Canada",
+          },
+          {
+            url: "https://soundcloud.com/user-853355360-37608151/anybody-have-a-map",
+            answer: "Dear Evan Hansen - Does Anybody Have a Map?",
+          },
+          {
+            url: "https://soundcloud.com/necmusic/beethoven-symphony-no-6-in-f-2",
+            answer: "Beethoven - Symphony no 6, 3rd mvt",
+          },
+          {
+            url: "https://soundcloud.com/maxwell-karmazyn/the-swan-carnival-of-the-animals-dennis-karmazyn",
+            answer: "Saint-Saens - Carnival of the Animals, The Swan",
+          },
+          {
+            url: "https://soundcloud.com/rose-music-official/apt",
+            answer: "Rose and Bruno Mars - Apt.",
+          },
+          {
+            url: "https://soundcloud.com/sherylcrow/if-it-makes-you-happy-edit",
+            answer: "Sheryl Crow - If It Makes You Happy",
+          },
+          {
+            url: "https://soundcloud.com/glenn-frey-official/the-one-you-love",
+            answer: "Glenn Frey - The One You Love",
+          },
+          {
+            url: "https://soundcloud.com/robbiedupree/robbie-dupree-steal-away",
+            answer: "Robbie Dupree - Steal Away",
+          },
+          {
+            url: "https://soundcloud.com/blood-sweat-tears-official/spinning-wheel",
+            answer: "Blood, Sweat and Tears - Spinning Wheel",
+          },
+          {
+            url: "https://soundcloud.com/del-amitri-official/roll-to-me",
+            answer: "Del Amitri - Roll to Me",
+          },
+          {
+            url: "https://soundcloud.com/daniel-powter-official/bad-day-1",
+            answer: "Daniel Powter - Bad Day",
+          },
+          {
+            url: "https://soundcloud.com/pure-prairie-league/let-me-love-you-tonight",
+            answer: "Pure Prairie League - Let Me Love You Tonight",
+          },
+          {
+            url: "https://soundcloud.com/adelemusic/set-fire-to-the-rain-1",
+            answer: "Adele - Set Fire to the Rain",
           },
 ],
         Pn
