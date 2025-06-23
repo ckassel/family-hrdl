@@ -10152,6 +10152,14 @@ var app = (function() {
       "Daniel Powter - Bad Day",
       "Pure Prairie League - Let Me Love You Tonight",
       "Adele - Set Fire to the Rain",
+      "The Zombies - She's Not There",
+      "Ambrosia - You're the Only Woman",
+      "Stevie Nicks - Stand Back",
+      "Passenger - Let Her Go",
+      "Bobby Caldwell - What You Won't Do for Love",
+      "Dr. Hook - When You're in Love with a Beautiful Woman",
+      "John Lennon - Watching the Wheels",
+      "Carly Simon - Coming Around Again",
    ]),
     On = {
       subscribe: ue(
@@ -14486,6 +14494,38 @@ var app = (function() {
           {
             url: "https://soundcloud.com/adelemusic/set-fire-to-the-rain-1",
             answer: "Adele - Set Fire to the Rain",
+          },
+          {
+            url: "https://soundcloud.com/the-zombies-official/shes-not-there-3",
+            answer: "The Zombies - She's Not There",
+          },
+          {
+            url: "https://soundcloud.com/ambrosiaofficial/ambrosia-youre-the-only-woman",
+            answer: "Ambrosia - You're the Only Woman",
+          },
+          {
+            url: "https://soundcloud.com/stevienicks/stand-back-1",
+            answer: "Stevie Nicks - Stand Back",
+          },
+          {
+            url: "https://soundcloud.com/passengerofficial/let-her-go-feat-ed-sheeran-1",
+            answer: "Passenger - Let Her Go",
+          },
+          {
+            url: "https://soundcloud.com/bobby-caldwell-official/what-you-wont-do-for-love-1",
+            answer: "Bobby Caldwell - What You Won't Do for Love",
+          },
+          {
+            url: "https://soundcloud.com/dr-hook-music/when-youre-in-love-with-a-3",
+            answer: "Dr. Hook - When You're in Love with a Beautiful Woman",
+          },
+          {
+            url: "https://soundcloud.com/john-lennon-official/watching-the-wheels-2010",
+            answer: "John Lennon - Watching the Wheels",
+          },
+          {
+            url: "https://soundcloud.com/carly-simon-official/coming-around-again",
+            answer: "Carly Simon - Coming Around Again",
           },
 ],
         Pn
