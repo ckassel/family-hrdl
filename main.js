@@ -10160,6 +10160,10 @@ var app = (function() {
       "Dr. Hook - When You're in Love with a Beautiful Woman",
       "John Lennon - Watching the Wheels",
       "Carly Simon - Coming Around Again",
+      "REM - Stand",
+      "Eagle-Eye Cherry - Save Tonight",
+      "Green Day - When I Come Around",
+      "Everything But the Girl - Missing",
    ]),
     On = {
       subscribe: ue(
@@ -14526,6 +14530,22 @@ var app = (function() {
           {
             url: "https://soundcloud.com/carly-simon-official/coming-around-again",
             answer: "Carly Simon - Coming Around Again",
+          },
+          {
+            url: "https://soundcloud.com/rem-official/stand",
+            answer: "REM - Stand",
+          },
+          {
+            url: "https://soundcloud.com/eagle-eye-cherry-official/save-tonight-1",
+            answer: "Eagle-Eye Cherry - Save Tonight",
+          },
+          {
+            url: "https://soundcloud.com/greenday/when-i-come-around",
+            answer: "Green Day - When I Come Around",
+          },
+          {
+            url: "https://soundcloud.com/everything-but-the-girl-official/missing",
+            answer: "Everything But the Girl - Missing",
           },
 ],
         Pn
