@@ -10164,6 +10164,14 @@ var app = (function() {
       "Eagle-Eye Cherry - Save Tonight",
       "Green Day - When I Come Around",
       "Everything But the Girl - Missing",
+      "The Sound of Music - My Favorite Things",
+      "John Coltrane - My Favorite Things",
+      "Ella Fitzgerald - How High the Moon",
+      "Peggy Lee - Fever",
+      "Tony Bennett - It Don't Mean a Thing (If it Ain't Got That Swing)",
+      "Boz Scaggs - Lowdown",
+      "Blood, Sweat and Tears - You've Made Me So Very Happy",
+      "Brewer and Shipley - One Toke Over the Line",
    ]),
     On = {
       subscribe: ue(
@@ -14546,6 +14554,38 @@ var app = (function() {
           {
             url: "https://soundcloud.com/everything-but-the-girl-official/missing",
             answer: "Everything But the Girl - Missing",
+          },
+          {
+            url: "https://soundcloud.com/julie-andrews-official/my-favorite-things",
+            answer: "The Sound of Music - My Favorite Things",
+          },
+          {
+            url: "https://soundcloud.com/johncoltraneofficial/my-favorite-things-1",
+            answer: "John Coltrane - My Favorite Things",
+          },
+          {
+            url: "https://soundcloud.com/ellafitzgerald/how-high-the-moon-885739105",
+            answer: "Ella Fitzgerald - How High the Moon",
+          },
+          {
+            url: "https://soundcloud.com/peggyleeofficial/fever-2000-digital-remaster",
+            answer: "Peggy Lee - Fever",
+          },
+          {
+            url: "https://soundcloud.com/tonybennett/it-dont-mean-a-thing-if-it-3",
+            answer: "Tony Bennett - It Don't Mean a Thing (If it Ain't Got That Swing)",
+          },
+          {
+            url: "https://soundcloud.com/bozscaggsmusic/lowdown-edit",
+            answer: "Boz Scaggs - Lowdown",
+          },
+          {
+            url: "https://soundcloud.com/blood-sweat-tears-official/youve-made-me-so-very-happy-4",
+            answer: "Blood, Sweat and Tears - You've Made Me So Very Happy",
+          },
+          {
+            url: "https://soundcloud.com/brewershipley/one-toke-over-the-line",
+            answer: "Brewer and Shipley - One Toke Over the Line",
           },
 ],
         Pn
