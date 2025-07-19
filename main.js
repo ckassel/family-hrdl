@@ -10172,6 +10172,19 @@ var app = (function() {
       "Boz Scaggs - Lowdown",
       "Blood, Sweat and Tears - You've Made Me So Very Happy",
       "Brewer and Shipley - One Toke Over the Line",
+      "The Eagles - Peaceful Easy Feeling",
+      "The Fixx - Stand or Fall",
+      "The Guess Who - These Eyes",
+      "Styx - Too Much Time on My Hands",
+      "The Police - King of Pain",
+      "The Moody Blues - The Story in Your Eyes",
+      "Rainbow - Street of Dreams",
+      "Pink Floyd - Run Like Hell",
+      "The Who - Join Together",
+      "Steve Miller Band - Jungle Love",
+      "Melissa Etheridge - Come to My Window",
+      "Soundgarden - Black Hole Sun",
+      "The Pretenders - My City Was Gone",
    ]),
     On = {
       subscribe: ue(
@@ -14586,6 +14599,58 @@ var app = (function() {
           {
             url: "https://soundcloud.com/brewershipley/one-toke-over-the-line",
             answer: "Brewer and Shipley - One Toke Over the Line",
+          },
+          {
+            url: "https://soundcloud.com/eaglesofficial/peaceful-easy-feeling",
+            answer: "The Eagles - Peaceful Easy Feeling",
+          },
+          {
+            url: "https://soundcloud.com/the-fixx-official/stand-or-fall-live",
+            answer: "The Fixx - Stand or Fall",
+          },
+          {
+            url: "https://soundcloud.com/the-guess-who-official/these-eyes-2",
+            answer: "The Guess Who - These Eyes",
+          },
+          {
+            url: "https://soundcloud.com/styx-official/too-much-time-on-my-hands-2",
+            answer: "Styx - Too Much Time on My Hands",
+          },
+          {
+            url: "https://soundcloud.com/the-police-official/king-of-pain",
+            answer: "The Police - King of Pain",
+          },
+          {
+            url: "https://soundcloud.com/the-moody-blues/the-story-in-your-eyes-1",
+            answer: "The Moody Blues - The Story in Your Eyes",
+          },
+          {
+            url: "https://soundcloud.com/rainbow-16136/street-of-dreams-album-version",
+            answer: "Rainbow - Street of Dreams",
+          },
+          {
+            url: "https://soundcloud.com/officialpinkfloyd/run-like-hell-2011-remastered",
+            answer: "Pink Floyd - Run Like Hell",
+          },
+          {
+            url: "https://soundcloud.com/thewho/join-together",
+            answer: "The Who - Join Together",
+          },
+          {
+            url: "https://soundcloud.com/thestevemillerband/jungle-love",
+            answer: "Steve Miller Band - Jungle Love",
+          },
+          {
+            url: "https://soundcloud.com/melissaetheridge/come-to-my-window-1",
+            answer: "Melissa Etheridge - Come to My Window",
+          },
+          {
+            url: "https://soundcloud.com/soundgarden/black-hole-sun-1",
+            answer: "Soundgarden - Black Hole Sun",
+          },
+          {
+            url: "https://soundcloud.com/the-pretenders/my-city-was-gone",
+            answer: "The Pretenders - My City Was Gone",
           },
 ],
         Pn
