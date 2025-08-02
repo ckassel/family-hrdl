@@ -10189,6 +10189,18 @@ var app = (function() {
       "Sousa - The Washington Post March",
       "Sousa - Stars and Stripes Forever",
       "Traditional - Ain't Gonna Let Nobody Turn Me 'Round",
+      "Ozzy Osbourne - Mama, I'm Coming Home",
+      "Rick Derringer - Rock and Roll, Hoochie Koo",
+      "Tom Lehrer - L-Y",
+      "Connie Francis - V-A-C-A-T-I-O-N",
+      "Brian Wilson - Good Vibrations",
+      "Jill Sobule - A Good Life",
+      "Tchaikovsky - Romeo and Juliet",
+      "Rimsky-Korsakov - Scheherazade, 2nd mvt",
+      "Copland - Shaker Theme from Appalachian Spring",
+      "Rush - New World Man",
+      "Van Halen - Jamie's Cryin'",
+      "Tone Loc - Wild Thing",
    ]),
     On = {
       subscribe: ue(
@@ -14671,6 +14683,54 @@ var app = (function() {
           {
             url: "https://soundcloud.com/smithsonian-folkways/56-aint-gonna-let-nobody-turn",
             answer: "Traditional - Ain't Gonna Let Nobody Turn Me 'Round",
+          },
+          {
+            url: "https://soundcloud.com/ozzy-osbourne-official/mama-im-coming-home",
+            answer: "Ozzy Osbourne - Mama, I'm Coming Home",
+          },
+          {
+            url: "https://soundcloud.com/rick-derringer/rock-and-roll-hoochie-koo",
+            answer: "Rick Derringer - Rock and Roll, Hoochie Koo",
+          },
+          {
+            url: "https://soundcloud.com/tom-lehrer-official/l-y-978029292",
+            answer: "Tom Lehrer - L-Y",
+          },
+          {
+            url: "https://soundcloud.com/connie-francis-official/v-a-c-a-t-i-o-n",
+            answer: "Connie Francis - V-A-C-A-T-I-O-N",
+          },
+          {
+            url: "https://soundcloud.com/brianwilsonmusic/good-vibrations-2",
+            answer: "Brian Wilson - Good Vibrations",
+          },
+          {
+            url: "https://soundcloud.com/jillsobule/a-good-life-1",
+            answer: "Jill Sobule - A Good Life",
+          },
+          {
+            url: "https://soundcloud.com/chicagosymphony/tchaikovsky-romeo-and-juliet-1",
+            answer: "Tchaikovsky - Romeo and Juliet",
+          },
+          {
+            url: "https://soundcloud.com/the-philadelphia-orchestra/scheherazade-op-35-ii-the",
+            answer: "Rimsky-Korsakov - Scheherazade, 2nd mvt",
+          },
+          {
+            url: "https://soundcloud.com/sydney-symphony/copland-appalachian-spring-shaker-theme",
+            answer: "Copland - Shaker Theme from Appalachian Spring",
+          },
+          {
+            url: "https://soundcloud.com/rush-official/new-world-man",
+            answer: "Rush - New World Man",
+          },
+          {
+            url: "https://soundcloud.com/vanhalenofficial/jamies-cryin-2015-remastered",
+            answer: "Van Halen - Jamie's Cryin'",
+          },
+          {
+            url: "https://soundcloud.com/tone-loc-official/wild-thing-1",
+            answer: "Tone Loc - Wild Thing",
           },
 ],
         Pn
