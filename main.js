@@ -10201,6 +10201,13 @@ var app = (function() {
       "Rush - New World Man",
       "Van Halen - Jamie's Cryin'",
       "Tone Loc - Wild Thing",
+      "Grover Washington Jr. - Just the Two of Us",
+      "Christopher Cross - Ride Like the Wind",
+      "Blues Image - Ride Captain Ride",
+      "Jim Croce - Bad, Bad Leroy Brown",
+      "Jackson Browne - Somebody's Baby",
+      "KC and the Sunshine Band - Keep It Comin' Love",
+      "Faces - Stay with Me",
    ]),
     On = {
       subscribe: ue(
@@ -14731,6 +14738,34 @@ var app = (function() {
           {
             url: "https://soundcloud.com/tone-loc-official/wild-thing-1",
             answer: "Tone Loc - Wild Thing",
+          },
+          {
+            url: "https://soundcloud.com/groverwashingtonjr/just-the-two-of-us-2",
+            answer: "Grover Washington Jr. - Just the Two of Us",
+          },
+          {
+            url: "https://soundcloud.com/christophercross-music/ride-like-the-wind-2019",
+            answer: "Christopher Cross - Ride Like the Wind",
+          },
+          {
+            url: "https://soundcloud.com/bluesimage/blues-image-ride-captain-ride",
+            answer: "Blues Image - Ride Captain Ride",
+          },
+          {
+            url: "https://soundcloud.com/jimcroce/jim-croce-bad-bad-leroy-brown",
+            answer: "Jim Croce - Bad, Bad Leroy Brown",
+          },
+          {
+            url: "https://soundcloud.com/jacksonbrowne/somebodys-baby",
+            answer: "Jackson Browne - Somebody's Baby",
+          },
+          {
+            url: "https://soundcloud.com/kcthesunshineband/keep-it-comin-love-1",
+            answer: "KC and the Sunshine Band - Keep It Comin' Love",
+          },
+          {
+            url: "https://soundcloud.com/faces3/stay-with-me",
+            answer: "Faces - Stay with Me",
           },
 ],
         Pn
