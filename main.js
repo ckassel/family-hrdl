@@ -10207,7 +10207,18 @@ var app = (function() {
       "Jim Croce - Bad, Bad Leroy Brown",
       "Jackson Browne - Somebody's Baby",
       "KC and the Sunshine Band - Keep It Comin' Love",
+      "Katseye - Gnarly",
       "Faces - Stay with Me",
+      "Boston - More Than a Feeling",
+      "Yes - Roundabout",
+      "Metallica - Enter Sandman",
+      "Black Sabbath - Iron Man",
+      "The Band - The Weight",
+      "The Ramones - Rockaway Beach",
+      "Pink Floyd - Brain Damage",
+      "Steely Dan - Do It Again",
+      "Jethro Tull - Locomotive Breath",
+      "U2 - New Year's Day",
    ]),
     On = {
       subscribe: ue(
@@ -14764,8 +14775,52 @@ var app = (function() {
             answer: "KC and the Sunshine Band - Keep It Comin' Love",
           },
           {
+            url: "https://soundcloud.com/katseye-music/gnarly",
+            answer: "Katseye - Gnarly",
+          },
+          {
             url: "https://soundcloud.com/faces3/stay-with-me",
             answer: "Faces - Stay with Me",
+          },
+          {
+            url: "https://soundcloud.com/boston-official/more-than-a-feeling-1",
+            answer: "Boston - More Than a Feeling",
+          },
+          {
+            url: "https://soundcloud.com/yesofficial/yes-fragile-roundabout-full-length",
+            answer: "Yes - Roundabout",
+          },
+          {
+            url: "https://soundcloud.com/officialmetallica/enter-sandman-remastered-2021",
+            answer: "Metallica - Enter Sandman",
+          },
+          {
+            url: "https://soundcloud.com/blacksabbath/iron-man",
+            answer: "Black Sabbath - Iron Man",
+          },
+          {
+            url: "https://soundcloud.com/theband-official/the-weight",
+            answer: "The Band - The Weight",
+          },
+          {
+            url: "https://soundcloud.com/ramones/rockaway-beach-remastered",
+            answer: "The Ramones - Rockaway Beach",
+          },
+          {
+            url: "https://soundcloud.com/officialpinkfloyd/brain-damage-2011-remastered",
+            answer: "Pink Floyd - Brain Damage",
+          },
+          {
+            url: "https://soundcloud.com/officialpinkfloyd/brain-damage-2011-remastered",
+            answer: "Steely Dan - Do It Again",
+          },
+          {
+            url: "https://soundcloud.com/jethrotullmusic/locomotive-breath-1971-us",
+            answer: "Jethro Tull - Locomotive Breath",
+          },
+          {
+            url: "https://soundcloud.com/jethrotullmusic/locomotive-breath-1971-us",
+            answer: "U2 - New Year's Day",
           },
 ],
         Pn
