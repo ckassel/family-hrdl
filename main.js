@@ -10208,7 +10208,6 @@ var app = (function() {
       "Jackson Browne - Somebody's Baby",
       "KC and the Sunshine Band - Keep It Comin' Love",
       "Katseye - Gnarly",
-      "Faces - Stay with Me",
       "Boston - More Than a Feeling",
       "Yes - Roundabout",
       "Metallica - Enter Sandman",
@@ -14777,10 +14776,6 @@ var app = (function() {
           {
             url: "https://soundcloud.com/katseye-music/gnarly",
             answer: "Katseye - Gnarly",
-          },
-          {
-            url: "https://soundcloud.com/faces3/stay-with-me",
-            answer: "Faces - Stay with Me",
           },
           {
             url: "https://soundcloud.com/boston-official/more-than-a-feeling-1",
