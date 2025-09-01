@@ -10218,6 +10218,18 @@ var app = (function() {
       "Steely Dan - Do It Again",
       "Jethro Tull - Locomotive Breath",
       "U2 - New Year's Day",
+      "Wang Chung - Dance Hall Days",
+      "Olivia Newton-John and ELO - Xanadu",
+      "Barbra Streisand - Comin' In and Out of Your Life",
+      "Dan Fogelberg - Leader of the Band",
+      "The Dream Academy - Life in a Northern Town",
+      "Adam Ant - Strip",
+      "Manfred Mann - The Mighty Quinn",
+      "Split Enz - One Step Ahead",
+      "Eurythmics - Right By Your Side",
+      "Katy Perry feat Juicy J - Dark Horse",
+      "Iggy Azalea feat Charli XCX - Fancy",
+      "Eminem feat Rihanna - The Monster",
    ]),
     On = {
       subscribe: ue(
@@ -14816,6 +14828,54 @@ var app = (function() {
           {
             url: "https://soundcloud.com/jethrotullmusic/locomotive-breath-1971-us",
             answer: "U2 - New Year's Day",
+          },
+          {
+            url: "https://soundcloud.com/wang-chung-official/dance-hall-days-1",
+            answer: "Wang Chung - Dance Hall Days",
+          },
+          {
+            url: "https://soundcloud.com/olivia-newton-john-official/xanadu-xanadu-soundtrack",
+            answer: "Olivia Newton-John and ELO - Xanadu",
+          },
+          {
+            url: "https://soundcloud.com/barbra_streisand/comin-in-and-out-of-your",
+            answer: "Barbra Streisand - Comin' In and Out of Your Life",
+          },
+          {
+            url: "https://soundcloud.com/dan-fogelberg/leader-of-the-band-1",
+            answer: "Dan Fogelberg - Leader of the Band",
+          },
+          {
+            url: "https://soundcloud.com/thedreamacademy/life-in-a-northern-town",
+            answer: "The Dream Academy - Life in a Northern Town",
+          },
+          {
+            url: "https://soundcloud.com/adam-ant-official/strip-single-version-1",
+            answer: "Adam Ant - Strip",
+          },
+          {
+            url: "https://soundcloud.com/manfred-mann-official/the-mighty-quinn-stereo",
+            answer: "Manfred Mann - The Mighty Quinn",
+          },
+          {
+            url: "https://soundcloud.com/split-enz/one-step-ahead-2",
+            answer: "Split Enz - One Step Ahead",
+          },
+          {
+            url: "https://soundcloud.com/eurythmics-official/right-by-your-side",
+            answer: "Eurythmics - Right By Your Side",
+          },
+          {
+            url: "https://soundcloud.com/katyperry/dark-horse-feat-juicy-j",
+            answer: "Katy Perry feat Juicy J - Dark Horse",
+          },
+          {
+            url: "https://soundcloud.com/iggy-azalea-official/fancy",
+            answer: "Iggy Azalea feat Charli XCX - Fancy",
+          },
+          {
+            url: "https://soundcloud.com/eminemofficial/the-monster",
+            answer: "Eminem feat Rihanna - The Monster",
           },
 ],
         Pn
