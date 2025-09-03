@@ -14826,7 +14826,7 @@ var app = (function() {
             answer: "Jethro Tull - Locomotive Breath",
           },
           {
-            url: "https://soundcloud.com/jethrotullmusic/locomotive-breath-1971-us",
+            url: "https://soundcloud.com/u2/new-years-day-album-version-1",
             answer: "U2 - New Year's Day",
           },
           {
