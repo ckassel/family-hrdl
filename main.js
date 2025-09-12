@@ -10230,6 +10230,16 @@ var app = (function() {
       "Katy Perry feat Juicy J - Dark Horse",
       "Iggy Azalea feat Charli XCX - Fancy",
       "Eminem feat Rihanna - The Monster",
+      "Gregg Allman Band - I'm No Angel",
+      "Bobby Fuller - I Fought the Law",
+      "Bruce Springsteen - Prove It All Night",
+      "Grateful Dead - Shakedown Street",
+      "Pure Prairie League - Amie",
+      "Phil Collins - Thru These Walls",
+      "Bad Company - Bad Company",
+      "Edgar Winter Group - Free Ride",
+      "Mary Chapin Carpenter - I Feel Lucky",
+      "Elvis Costello - (What's So Funny 'Bout) Peace, Love, and Understanding",
    ]),
     On = {
       subscribe: ue(
@@ -14876,6 +14886,46 @@ var app = (function() {
           {
             url: "https://soundcloud.com/eminemofficial/the-monster",
             answer: "Eminem feat Rihanna - The Monster",
+          },
+          {
+            url: "https://soundcloud.com/the-gregg-allman-band/im-no-angel-album-version",
+            answer: "Gregg Allman Band - I'm No Angel",
+          },
+          {
+            url: "https://soundcloud.com/bobbyfuller-music/i-fought-the-law",
+            answer: "Bobby Fuller - I Fought the Law",
+          },
+          {
+            url: "https://soundcloud.com/brucespringsteen/prove-it-all-night-remastered",
+            answer: "Bruce Springsteen - Prove It All Night",
+          },
+          {
+            url: "https://soundcloud.com/gratefuldead/shakedown-street-1",
+            answer: "Grateful Dead - Shakedown Street",
+          },
+          {
+            url: "https://soundcloud.com/pure-prairie-league/amie",
+            answer: "Pure Prairie League - Amie",
+          },
+          {
+            url: "https://soundcloud.com/phil-collins-official/thru-these-walls-2016",
+            answer: "Phil Collins - Thru These Walls",
+          },
+          {
+            url: "https://soundcloud.com/badcompanymusic/bad-company",
+            answer: "Bad Company - Bad Company",
+          },
+          {
+            url: "https://soundcloud.com/theedgarwintergroup/free-ride",
+            answer: "Edgar Winter Group - Free Ride",
+          },
+          {
+            url: "https://soundcloud.com/mary-chapin-carpenter/i-feel-lucky",
+            answer: "Mary Chapin Carpenter - I Feel Lucky",
+          },
+          {
+            url: "https://soundcloud.com/elviscostelloofficial/whats-so-funny-bout-peace",
+            answer: "Elvis Costello - (What's So Funny 'Bout) Peace, Love, and Understanding",
           },
 ],
         Pn
