@@ -10240,6 +10240,10 @@ var app = (function() {
       "Edgar Winter Group - Free Ride",
       "Mary Chapin Carpenter - I Feel Lucky",
       "Elvis Costello - (What's So Funny 'Bout) Peace, Love, and Understanding",
+      "The Doobie Brothers - What a Fool Believes",
+      "Prince - Little Red Corvette",
+      "J Geils Band - Must Of Got Lost",
+      "Al Jarreau - We're in This Love Together",
    ]),
     On = {
       subscribe: ue(
@@ -14926,6 +14930,22 @@ var app = (function() {
           {
             url: "https://soundcloud.com/elviscostelloofficial/whats-so-funny-bout-peace",
             answer: "Elvis Costello - (What's So Funny 'Bout) Peace, Love, and Understanding",
+          },
+          {
+            url: "https://soundcloud.com/thedoobiebrothers/what-a-fool-believes",
+            answer: "The Doobie Brothers - What a Fool Believes",
+          },
+          {
+            url: "https://soundcloud.com/prince/little-red-corvette-1",
+            answer: "Prince - Little Red Corvette",
+          },
+          {
+            url: "https://soundcloud.com/thejgeilsband/the-j-geils-band-must-of-got",
+            answer: "J Geils Band - Must Of Got Lost",
+          },
+          {
+            url: "https://soundcloud.com/aljarreau/were-in-this-love-together-2",
+            answer: "Al Jarreau - We're in This Love Together",
           },
 ],
         Pn
