@@ -10244,6 +10244,20 @@ var app = (function() {
       "Prince - Little Red Corvette",
       "J Geils Band - Must Of Got Lost",
       "Al Jarreau - We're in This Love Together",
+      "Stan Getz - Desafinado",
+      "Art Blakey - Moanin'",
+      "Dave Brubeck - Blue Rondo a la Turk",
+      "Thelonious Monk - 'Round Midnight",
+      "Billie Holiday - Good Morning Heartache",
+      "John Coltrane - Giant Steps",
+      "Chet Baker - My Funny Valentine",
+      "Sarah Vaughan - Lullaby of Birdland",
+      "Dizzy Gillespie - Salt Peanuts",
+      "The Alan Parsons Project - Eye in the Sky",
+      "Andrew Gold - Lonely Boy",
+      "Bertie Higgins - Key Largo",
+      "Helen Reddy - I Am Woman",
+      "Gino Vannelli - I Just Wanna Stop",
    ]),
     On = {
       subscribe: ue(
@@ -14946,6 +14960,62 @@ var app = (function() {
           {
             url: "https://soundcloud.com/aljarreau/were-in-this-love-together-2",
             answer: "Al Jarreau - We're in This Love Together",
+          },
+          {
+            url: "https://soundcloud.com/stan-getz-official/desafinado-622956033",
+            answer: "Stan Getz - Desafinado",
+          },
+          {
+            url: "https://soundcloud.com/art-blakey-official/moanin-5",
+            answer: "Art Blakey - Moanin'",
+          },
+          {
+            url: "https://soundcloud.com/davebrubeck/blue-rondo-a-la-turk-23",
+            answer: "Dave Brubeck - Blue Rondo a la Turk",
+          },
+          {
+            url: "https://soundcloud.com/thelonious-monk-official/round-midnight-rudy-van-gelder",
+            answer: "Thelonious Monk - 'Round Midnight",
+          },
+          {
+            url: "https://soundcloud.com/billieholliday/good-morning-heartache-1-962022416",
+            answer: "Billie Holiday - Good Morning Heartache",
+          },
+          {
+            url: "https://soundcloud.com/johncoltraneofficial/giant-steps",
+            answer: "John Coltrane - Giant Steps",
+          },
+          {
+            url: "https://soundcloud.com/chet-baker-official/my-funny-valentine-107507357",
+            answer: "Chet Baker - My Funny Valentine",
+          },
+          {
+            url: "https://soundcloud.com/sarahvaughanofficial/lullaby-of-birdland-7",
+            answer: "Sarah Vaughan - Lullaby of Birdland",
+          },
+          {
+            url: "https://soundcloud.com/dizzy-gillespie-official/salt-peanuts-10",
+            answer: "Dizzy Gillespie - Salt Peanuts",
+          },
+          {
+            url: "https://soundcloud.com/the-alan-parsons-project/eye-in-the-sky",
+            answer: "The Alan Parsons Project - Eye in the Sky",
+          },
+          {
+            url: "https://soundcloud.com/andrewgoldofficial/andrew-gold-lonely-boy",
+            answer: "Andrew Gold - Lonely Boy",
+          },
+          {
+            url: "https://soundcloud.com/bertiehiggins/key-largo-2",
+            answer: "Bertie Higgins - Key Largo",
+          },
+          {
+            url: "https://soundcloud.com/helen-reddy/i-am-woman",
+            answer: "Helen Reddy - I Am Woman",
+          },
+          {
+            url: "https://soundcloud.com/gino-vannelli-official/i-just-wanna-stop-album",
+            answer: "Gino Vannelli - I Just Wanna Stop",
           },
 ],
         Pn
