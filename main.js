@@ -14962,7 +14962,7 @@ var app = (function() {
             answer: "Al Jarreau - We're in This Love Together",
           },
           {
-            url: "https://soundcloud.com/stan-getz-official/desafinado-622956033",
+            url: "https://soundcloud.com/joaogilbertoofficial/desafinado-feat-antonio-carlos",
             answer: "Stan Getz - Desafinado",
           },
           {
