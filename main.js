@@ -4083,7 +4083,7 @@ var app = (function() {
       attemptInterval: 1.5e3,
       attemptIntervalAlt: [1e3, 2e3, 4e3, 7e3, 11e3, 16e3],
       maxAttempts: 6,
-      startDate: "2025-04-15",
+      startDate: "2025-06-20",
     },
     Jt = ["Sorry!", "That's awesome!", "Wow indeed!", "Amazing!", "Not too shabby!", "Almost got exposed", "Need to relisten, huh?"];
 
