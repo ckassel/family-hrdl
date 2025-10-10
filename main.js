@@ -9262,6 +9262,14 @@ var app = (function() {
       "Poison - Unskinny Bop",
       "The B-52s - Roam",
       "Taylor Dayne - I'll Be Your Shelter",
+      "Lauv - I Like Me Better",
+      "Imagine Dragons - Believer",
+      "Clean Bandit feat Sean Paul and Anne-Marie - Rockabye",
+      "Talking Heads - Wild Wild Life",
+      "Sinead O'Connor - Black Boys on Mopeds",
+      "10,000 Maniacs - Trouble Me",
+      "Kool and the Gang - Get Down On It",
+      "Shawn Colvin - Shotgun Down the Avalanche",
    ]),
     On = {
       subscribe: ue(
@@ -10037,6 +10045,38 @@ var app = (function() {
           {
             url: "https://soundcloud.com/taylor-dayne-official/ill-be-your-shelter-1",
             answer: "Taylor Dayne - I'll Be Your Shelter",
+          },
+          {
+            url: "https://soundcloud.com/lauvsongs/i-like-me-better-1",
+            answer: "Lauv - I Like Me Better",
+          },
+          {
+            url: "https://soundcloud.com/imaginedragons/believer",
+            answer: "Imagine Dragons - Believer",
+          },
+          {
+            url: "https://soundcloud.com/dj-isi/clean-bandit-rockabye-ft-sean-paul-anne-marie-djisi-rework",
+            answer: "Clean Bandit feat Sean Paul and Anne-Marie - Rockabye",
+          },
+          {
+            url: "https://soundcloud.com/talkingheads/wild-wild-life-remastered-1",
+            answer: "Talking Heads - Wild Wild Life",
+          },
+          {
+            url: "https://soundcloud.com/sineadoconnor/black-boys-on-mopeds-2009",
+            answer: "Sinead O'Connor - Black Boys on Mopeds",
+          },
+          {
+            url: "https://soundcloud.com/10000maniacs/trouble-me-1",
+            answer: "10,000 Maniacs - Trouble Me",
+          },
+          {
+            url: "https://soundcloud.com/koolthegang/get-down-on-it-single",
+            answer: "Kool and the Gang - Get Down On It",
+          },
+          {
+            url: "https://soundcloud.com/shawncolvin/shotgun-down-the-avalanche-7",
+            answer: "Shawn Colvin - Shotgun Down the Avalanche",
           },
 ],
         Pn
