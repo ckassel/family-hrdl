@@ -9258,6 +9258,10 @@ var app = (function() {
       "Bertie Higgins - Key Largo",
       "Helen Reddy - I Am Woman",
       "Gino Vannelli - I Just Wanna Stop",
+      "Don Henley - The End of the Innocence",
+      "Poison - Unskinny Bop",
+      "The B-52s - Roam",
+      "Taylor Dayne - I'll Be Your Shelter",
    ]),
     On = {
       subscribe: ue(
@@ -10017,6 +10021,22 @@ var app = (function() {
           {
             url: "https://soundcloud.com/gino-vannelli-official/i-just-wanna-stop-album",
             answer: "Gino Vannelli - I Just Wanna Stop",
+          },
+          {
+            url: "https://soundcloud.com/don-henley-official/the-end-of-the-innocence",
+            answer: "Don Henley - The End of the Innocence",
+          },
+          {
+            url: "https://soundcloud.com/poison-official/unskinny-bop-2006-remaster",
+            answer: "Poison - Unskinny Bop",
+          },
+          {
+            url: "https://soundcloud.com/theb52sofficial/roam-1",
+            answer: "The B-52s - Roam",
+          },
+          {
+            url: "https://soundcloud.com/taylor-dayne-official/ill-be-your-shelter-1",
+            answer: "Taylor Dayne - I'll Be Your Shelter",
           },
 ],
         Pn
