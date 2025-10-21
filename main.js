@@ -9270,6 +9270,16 @@ var app = (function() {
       "10,000 Maniacs - Trouble Me",
       "Kool and the Gang - Get Down On It",
       "Shawn Colvin - Shotgun Down the Avalanche",
+      "The Exciters - Tell Him",
+      "Earl Jean - I'm Into Somethin' Good",
+      "Los Bravos - Black Is Black",
+      "Tiny Tim - Tiptoe Through the Tulips with Me",
+      "Mulan - Reflection",
+      "Jean Knight - Mr. Big Stuff",
+      "The Hillside Singers - I'd Like to Teach the World to Sing",
+      "Walter Egan - Magnet and Steel",
+      "Nick Gilder - Hot Child in the City",
+      "Frank Zappa - Valley Girl",
    ]),
     On = {
       subscribe: ue(
@@ -10077,6 +10087,46 @@ var app = (function() {
           {
             url: "https://soundcloud.com/shawncolvin/shotgun-down-the-avalanche-7",
             answer: "Shawn Colvin - Shotgun Down the Avalanche",
+          },
+          {
+            url: "https://soundcloud.com/the-exciters/tell-him-single-version",
+            answer: "The Exciters - Tell Him",
+          },
+          {
+            url: "https://soundcloud.com/earljean/im-into-somethin-good",
+            answer: "Earl Jean - I'm Into Somethin' Good",
+          },
+          {
+            url: "https://soundcloud.com/los-bravos/black-is-black",
+            answer: "Los Bravos - Black Is Black",
+          },
+          {
+            url: "https://soundcloud.com/tinytimofficial/tiny-tim-tip-toe-thru-the",
+            answer: "Tiny Tim - Tiptoe Through the Tulips with Me",
+          },
+          {
+            url: "https://soundcloud.com/thekrazyk101/mulan-reflection",
+            answer: "Mulan - Reflection",
+          },
+          {
+            url: "https://soundcloud.com/jean-knight-official/mr-big-stuff",
+            answer: "Jean Knight - Mr. Big Stuff",
+          },
+          {
+            url: "https://soundcloud.com/thehillsidesingers/id-like-to-teach-the-world-to",
+            answer: "The Hillside Singers - I'd Like to Teach the World to Sing",
+          },
+          {
+            url: "https://soundcloud.com/walteregan/magnet-and-steel",
+            answer: "Walter Egan - Magnet and Steel",
+          },
+          {
+            url: "https://soundcloud.com/nickgilder/hot-child-in-the-city-extended",
+            answer: "Nick Gilder - Hot Child in the City",
+          },
+          {
+            url: "https://soundcloud.com/frankzappa/valley-girl",
+            answer: "Frank Zappa - Valley Girl",
           },
 ],
         Pn
