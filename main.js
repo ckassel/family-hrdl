@@ -9280,6 +9280,16 @@ var app = (function() {
       "Walter Egan - Magnet and Steel",
       "Nick Gilder - Hot Child in the City",
       "Frank Zappa - Valley Girl",
+      "The Who - My Generation",
+      "Genesis - Turn It On Again",
+      "Jethro Tull - Songs from the Wood",
+      "Arlo Guthrie - Coming into Los Angeles",
+      "TV Themes - Parks and Recreation Theme Song",
+      "Pat Benatar - You Better Run",
+      "The Cars - Let's Go",
+      "REO Speedwagon - Time for Me to Fly",
+      "David Lee Roth - Just a Gigolo",
+      "Huey Lewis - I Want a New Drug",
    ]),
     On = {
       subscribe: ue(
@@ -10127,6 +10137,46 @@ var app = (function() {
           {
             url: "https://soundcloud.com/frankzappa/valley-girl",
             answer: "Frank Zappa - Valley Girl",
+          },
+          {
+            url: "https://soundcloud.com/thewho/my-generation-saturday-club",
+            answer: "The Who - My Generation",
+          },
+          {
+            url: "https://soundcloud.com/genesis4/turn-it-on-again-2007",
+            answer: "Genesis - Turn It On Again",
+          },
+          {
+            url: "https://soundcloud.com/jethrotullmusic/songs-from-the-wood",
+            answer: "Jethro Tull - Songs from the Wood",
+          },
+          {
+            url: "https://soundcloud.com/arlo-guthrie/coming-into-los-angeles",
+            answer: "Arlo Guthrie - Coming into Los Angeles",
+          },
+          {
+            url: "https://soundcloud.com/the_tim/parks-and-recreation-theme-song",
+            answer: "TV Themes - Parks and Recreation Theme Song",
+          },
+          {
+            url: "https://soundcloud.com/pat-benatar-official/you-better-run",
+            answer: "Pat Benatar - You Better Run",
+          },
+          {
+            url: "https://soundcloud.com/thecarsofficial/lets-go",
+            answer: "The Cars - Let's Go",
+          },
+          {
+            url: "https://soundcloud.com/reo-speedwagon/time-for-me-to-fly-1",
+            answer: "REO Speedwagon - Time for Me to Fly",
+          },
+          {
+            url: "https://soundcloud.com/david-lee-roth/just-a-gigolo-i-aint-got",
+            answer: "David Lee Roth - Just a Gigolo",
+          },
+          {
+            url: "https://soundcloud.com/huey-lewis-and-the-news-official/i-want-a-new-drug-single-edit",
+            answer: "Huey Lewis - I Want a New Drug",
           },
 ],
         Pn
