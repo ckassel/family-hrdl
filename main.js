@@ -9290,6 +9290,15 @@ var app = (function() {
       "REO Speedwagon - Time for Me to Fly",
       "David Lee Roth - Just a Gigolo",
       "Huey Lewis - I Want a New Drug",
+      "Gerry Rafferty - Right Down the Line",
+      "Utopia - Love Is the Answer",
+      "The Left Banke - Walk Away Renee",
+      "Carly Simon - Haven't Got Time for the Pain",
+      "The Doobie Brothers - Real Love",
+      "Dan Fogelberg - Missing You",
+      "The Clash - Rock the Casbah",
+      "Fleetwood Mac - Landslide",
+      "Joan Armatrading - Love and Affection",
    ]),
     On = {
       subscribe: ue(
@@ -10177,6 +10186,42 @@ var app = (function() {
           {
             url: "https://soundcloud.com/huey-lewis-and-the-news-official/i-want-a-new-drug-single-edit",
             answer: "Huey Lewis - I Want a New Drug",
+          },
+          {
+            url: "https://soundcloud.com/gerry-rafferty/right-down-the-line",
+            answer: "Gerry Rafferty - Right Down the Line",
+          },
+          {
+            url: "https://soundcloud.com/utopia1/love-is-the-answer",
+            answer: "Utopia - Love Is the Answer",
+          },
+          {
+            url: "https://soundcloud.com/the-left-banke/walk-away-renee-single-version",
+            answer: "The Left Banke - Walk Away Renee",
+          },
+          {
+            url: "https://soundcloud.com/carly-simon-official/havent-got-time-for-the-pain-1",
+            answer: "Carly Simon - Haven't Got Time for the Pain",
+          },
+          {
+            url: "https://soundcloud.com/thedoobiebrothers/real-love",
+            answer: "The Doobie Brothers - Real Love",
+          },
+          {
+            url: "https://soundcloud.com/dan-fogelberg/missing-you",
+            answer: "Dan Fogelberg - Missing You",
+          },
+          {
+            url: "https://soundcloud.com/theclash/rock-the-casbah-remastered",
+            answer: "The Clash - Rock the Casbah",
+          },
+          {
+            url: "https://soundcloud.com/fleetwoodmacofficial/landslide",
+            answer: "Fleetwood Mac - Landslide",
+          },
+          {
+            url: "https://soundcloud.com/joan-armatrading-official/love-and-affection-album",
+            answer: "Joan Armatrading - Love and Affection",
           },
 ],
         Pn
