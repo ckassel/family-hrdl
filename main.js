@@ -9299,6 +9299,16 @@ var app = (function() {
       "The Clash - Rock the Casbah",
       "Fleetwood Mac - Landslide",
       "Joan Armatrading - Love and Affection",
+      "Allman Brothers - Jessica",
+      "Green Day - Good Riddance (Time of Your Life)",
+      "Neil Young - Cinnamon Girl",
+      "Billy Joel - All for Leyna",
+      "Dionne Warwick - Heartbreaker",
+      "Irene Cara - Fame",
+      "Stevie Ray Vaughn - Pride and Joy",
+      "REM - Orange Crush",
+      "The Fixx - One Thing Leads to Another",
+      "The Animals - We've Gotta Get Out of This Place",
    ]),
     On = {
       subscribe: ue(
@@ -10222,6 +10232,46 @@ var app = (function() {
           {
             url: "https://soundcloud.com/joan-armatrading-official/love-and-affection-album",
             answer: "Joan Armatrading - Love and Affection",
+          },
+          {
+            url: "https://soundcloud.com/the-allman-brothers-band/jessica-2",
+            answer: "Allman Brothers - Jessica",
+          },
+          {
+            url: "https://soundcloud.com/greenday/good-riddance-time-of-your-2",
+            answer: "Green Day - Good Riddance (Time of Your Life)",
+          },
+          {
+            url: "https://soundcloud.com/neilyoungsoundcloud/cinnamon-girl",
+            answer: "Neil Young - Cinnamon Girl",
+          },
+          {
+            url: "https://soundcloud.com/billyjoel/all-for-leyna",
+            answer: "Billy Joel - All for Leyna",
+          },
+          {
+            url: "https://soundcloud.com/dionnewarwickofficial/heartbreaker",
+            answer: "Dionne Warwick - Heartbreaker",
+          },
+          {
+            url: "https://soundcloud.com/user-806254913/irene-cara-fame-vinyl-extended",
+            answer: "Irene Cara - Fame",
+          },
+          {
+            url: "https://soundcloud.com/stevie-ray-vaughan-official/pride-and-joy-4",
+            answer: "Stevie Ray Vaughan - Pride and Joy",
+          },
+          {
+            url: "https://soundcloud.com/rem-official/orange-crush",
+            answer: "REM - Orange Crush",
+          },
+          {
+            url: "https://soundcloud.com/san-juanmusic/one-thing-leads-to-another-the-fixx",
+            answer: "The Fixx - One Thing Leads to Another",
+          },
+          {
+            url: "https://soundcloud.com/the-animals-official/weve-gotta-get-out-of-this-457073777",
+            answer: "The Animals - We've Gotta Get Out of This Place",
           },
 ],
         Pn
