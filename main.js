@@ -9309,6 +9309,17 @@ var app = (function() {
       "REM - Orange Crush",
       "The Fixx - One Thing Leads to Another",
       "The Animals - We've Gotta Get Out of This Place",
+      "Chappell Roan - Pink Pony Club",
+      "Lady Gaga and Bruno Mars - Die with a Smile",
+      "Tom Petty - Don't Do Me Like That",
+      "The Police - Wrapped Around Your Finger",
+      "Georgia Satellites - Keep Your Hands to Yourself",
+      "Soul Asylum - Runaway Train",
+      "The Rolling Stones - Shattered",
+      "War - Low Rider",
+      "Eddie Money - Shakin'",
+      "Allman Brothers - Revival",
+      "Nirvana - All Apologies",
    ]),
     On = {
       subscribe: ue(
@@ -10272,6 +10283,50 @@ var app = (function() {
           {
             url: "https://soundcloud.com/the-animals-official/weve-gotta-get-out-of-this-457073777",
             answer: "The Animals - We've Gotta Get Out of This Place",
+          },
+          {
+            url: "https://soundcloud.com/chappellroan/pink-pony-club",
+            answer: "Chappell Roan - Pink Pony Club",
+          },
+          {
+            url: "https://soundcloud.com/ladygaga/die-with-a-smile",
+            answer: "Lady Gaga and Bruno Mars - Die with a Smile",
+          },
+          {
+            url: "https://soundcloud.com/tompettyandtheheartbreakers/dont-do-me-like-that",
+            answer: "Tom Petty - Don't Do Me Like That",
+          },
+          {
+            url: "https://soundcloud.com/the-police-official/wrapped-around-your-finger-2",
+            answer: "The Police - Wrapped Around Your Finger",
+          },
+          {
+            url: "https://soundcloud.com/georgiasatellites/keep-your-hands-to-yourself-45",
+            answer: "Georgia Satellites - Keep Your Hands to Yourself",
+          },
+          {
+            url: "https://soundcloud.com/soulasylumofficial/runaway-train-1",
+            answer: "Soul Asylum - Runaway Train",
+          },
+          {
+            url: "https://soundcloud.com/rolling-stones-official/shattered",
+            answer: "The Rolling Stones - Shattered",
+          },
+          {
+            url: "https://soundcloud.com/war-official/low-rider",
+            answer: "War - Low Rider",
+          },
+          {
+            url: "https://soundcloud.com/eddie-money-official/shakin",
+            answer: "Eddie Money - Shakin'",
+          },
+          {
+            url: "https://soundcloud.com/the-allman-brothers-band/revival",
+            answer: "Allman Brothers - Revival",
+          },
+          {
+            url: "https://soundcloud.com/nirvana/all-apologies-1",
+            answer: "Nirvana - All Apologies",
           },
 ],
         Pn
