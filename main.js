@@ -9320,6 +9320,16 @@ var app = (function() {
       "Eddie Money - Shakin'",
       "Allman Brothers - Revival",
       "Nirvana - All Apologies",
+      "Poulenc - Hodie, Christus Natus Est",
+      "John Mellencamp - Authority Song",
+      "Bach - Brandenburg Concerto #4, 1st mvt",
+      "Billy Joel - Only the Good Die Young",
+      "Crosby, Stills, Nash, and Young - Ohio",
+      "Eric Clapton - Lay Down Sally",
+      "38 Special - Hold On Loosely",
+      "Collective Soul - The World I Know",
+      "Yusuf Cat Stevens - Tuesday's Dead",
+      "Genesis - Throwing It All Away",
    ]),
     On = {
       subscribe: ue(
@@ -10327,6 +10337,50 @@ var app = (function() {
           {
             url: "https://soundcloud.com/nirvana/all-apologies-1",
             answer: "Nirvana - All Apologies",
+          },
+          {
+            url: "https://soundcloud.com/user-369179357/hodie-christus-natus-est",
+            answer: "Poulenc - Hodie, Christus Natus Est",
+          },
+          {
+            url: "https://soundcloud.com/john-mellencamp/authority-song-album-version",
+            answer: "John Mellencamp - Authority Song",
+          },
+          {
+            url: "https://soundcloud.com/thomas-gould/05-brandenburg-no-4-track-05",
+            answer: "Bach - Brandenburg Concerto #4, 1st mvt",
+          },
+          {
+            url: "https://soundcloud.com/billyjoel/only-the-good-die-young-1",
+            answer: "Billy Joel - Only the Good Die Young",
+          },
+          {
+            url: "https://soundcloud.com/crosbystillsandnash/ohio",
+            answer: "Crosby, Stills, Nash, and Young - Ohio",
+          },
+          {
+            url: "https://soundcloud.com/dj-hau/golden-hau-dahye-remix",
+            answer: "HUNTR/X - Golden",
+          },
+          {
+            url: "https://soundcloud.com/ericclapton/lay-down-sally",
+            answer: "Eric Clapton - Lay Down Sally",
+          },
+          {
+            url: "https://soundcloud.com/38-special-official/hold-on-loosely",
+            answer: "38 Special - Hold On Loosely",
+          },
+          {
+            url: "https://soundcloud.com/collectivesoulmusic/the-world-i-know",
+            answer: "Collective Soul - The World I Know",
+          },
+          {
+            url: "https://soundcloud.com/yusufcatstevens/tuesdays-dead",
+            answer: "Yusuf Cat Stevens - Tuesday's Dead",
+          },
+          {
+            url: "https://soundcloud.com/genesis4/throwing-it-all-away-2007",
+            answer: "Genesis - Throwing It All Away",
           },
 ],
         Pn
