@@ -9329,7 +9329,19 @@ var app = (function() {
       "38 Special - Hold On Loosely",
       "Collective Soul - The World I Know",
       "Yusuf Cat Stevens - Tuesday's Dead",
+      "Alex Warren - Carry You Home",
       "Genesis - Throwing It All Away",
+      "Talking Heads - Heaven",
+      "The Who - Getting in Tune",
+      "Don Henley - Heart of the Matter",
+      "Alex Warren - Carry You Home",
+      "Taylor Swift - Opalite",
+      "The Pretenders - Middle of the Road",
+      "Fleetwood Mac - Gold Dust Woman",
+      "Dionne Warwick - Walk on By",
+      "Doja Cat - Paint the Town Red",
+      "Elvis Costello - (The Angels Wanna Wear My) Red Shoes",
+      "Bob Dylan - Positively 4th Street",
    ]),
     On = {
       subscribe: ue(
@@ -10379,8 +10391,52 @@ var app = (function() {
             answer: "Yusuf Cat Stevens - Tuesday's Dead",
           },
           {
+            url: "https://soundcloud.com/alexwaarren/carry-you-home",
+            answer: "Alex Warren - Carry You Home",
+          },
+          {
             url: "https://soundcloud.com/genesis4/throwing-it-all-away-2007",
             answer: "Genesis - Throwing It All Away",
+          },
+          {
+            url: "https://soundcloud.com/talkingheads/heaven-live-2023-remaster",
+            answer: "Talking Heads - Heaven",
+          },
+          {
+            url: "https://soundcloud.com/thewho/getting-in-tune",
+            answer: "The Who - Getting in Tune",
+          },
+          {
+            url: "https://soundcloud.com/don-henley-official/the-heart-of-the-matter",
+            answer: "Don Henley - Heart of the Matter",
+          },
+          {
+            url: "https://soundcloud.com/taylorswiftofficial/opalite",
+            answer: "Taylor Swift - Opalite",
+          },
+          {
+            url: "https://soundcloud.com/the-pretenders/middle-of-the-road-2007",
+            answer: "The Pretenders - Middle of the Road",
+          },
+          {
+            url: "https://soundcloud.com/fleetwoodmacofficial/gold-dust-woman-remastered",
+            answer: "Fleetwood Mac - Gold Dust Woman",
+          },
+          {
+            url: "https://soundcloud.com/dionnewarwickofficial/dionne-warwick-walk-on-by",
+            answer: "Dionne Warwick - Walk on By",
+          },
+          {
+            url: "https://soundcloud.com/amalaofficial/paint-the-town-red",
+            answer: "Doja Cat - Paint the Town Red",
+          },
+          {
+            url: "https://soundcloud.com/elviscostelloofficial/the-angels-wanna-wear-my-red",
+            answer: "Elvis Costello - (The Angels Wanna Wear My) Red Shoes",
+          },
+          {
+            url: "https://soundcloud.com/bobdylan/positively-4th-street-single",
+            answer: "Bob Dylan - Positively 4th Street",
           },
 ],
         Pn
