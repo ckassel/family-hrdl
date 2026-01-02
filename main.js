@@ -9342,6 +9342,16 @@ var app = (function() {
       "Doja Cat - Paint the Town Red",
       "Elvis Costello - (The Angels Wanna Wear My) Red Shoes",
       "Bob Dylan - Positively 4th Street",
+      "Free to Be... You and Me - Parents Are People",
+      "Roger Daltrey - Free Me",
+      "Kiss - Lick It Up",
+      "Steve Winwood - Roll with It",
+      "Crowded House - Something So Strong",
+      "Queensryche - Silent Lucidity",
+      "Art of Noise - Peter Gunn",
+      "Bernstein - Candide Overture",
+      "Simon and Garfunkel - Scarborough Fair/Canticle",
+      "Joe Jackson - Steppin' Out",
    ]),
     On = {
       subscribe: ue(
@@ -10437,6 +10447,46 @@ var app = (function() {
           {
             url: "https://soundcloud.com/bobdylan/positively-4th-street-single",
             answer: "Bob Dylan - Positively 4th Street",
+          },
+          {
+            url: "https://soundcloud.com/marlothomas/parents-are-people",
+            answer: "Free to Be...You and Me - Parents Are People",
+          },
+          {
+            url: "https://soundcloud.com/rogerdaltreyofficial/free-me",
+            answer: "Roger Daltrey - Free Me",
+          },
+          {
+            url: "https://soundcloud.com/kiss-official/lick-it-up-1",
+            answer: "Kiss - Lick It Up",
+          },
+          {
+            url: "https://soundcloud.com/steve-winwood-official/roll-with-it",
+            answer: "Steve Winwood - Roll with It",
+          },
+          {
+            url: "https://soundcloud.com/crowded-house/something-so-strong",
+            answer: "Crowded House - Something So Strong",
+          },
+          {
+            url: "https://soundcloud.com/queensrycheofficial/silent-lucidity-remastered",
+            answer: "Queensryche - Silent Lucidity",
+          },
+          {
+            url: "https://soundcloud.com/art-of-noise-official/peter-gunn-feat-duane-eddy-2",
+            answer: "Art of Noise - Peter Gunn",
+          },
+          {
+            url: "https://soundcloud.com/necmusic/bernstein-overture-to-candide",
+            answer: "Bernstein - Candide Overture",
+          },
+          {
+            url: "https://soundcloud.com/simon-garfunkel-official/scarborough-fair-canticle-5",
+            answer: "Simon and Garfunkel - Scarborough Fair/Canticle",
+          },
+          {
+            url: "https://soundcloud.com/officialjoejackson/steppin-out-1",
+            answer: "Joe Jackson - Steppin' Out",
           },
 ],
         Pn
