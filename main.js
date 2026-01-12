@@ -9352,6 +9352,16 @@ var app = (function() {
       "Bernstein - Candide Overture",
       "Simon and Garfunkel - Scarborough Fair/Canticle",
       "Joe Jackson - Steppin' Out",
+      "PDQ Bach - String Quartet in F Major",
+      "Don Henley - Sunset Grill",
+      "Joe Walsh - Rocky Mountain Way",
+      "Glenn Frey - The Heat Is On",
+      "Mojo Nixon - Don Henley Must Die",
+      "The Romantics - What I Like About You",
+      "The Doors - Break on Through (to the Other Side)",
+      "Jethro Tull - Bouree",
+      "Crosby, Stills, and Nash - Marrakesh Express",
+      "Peter Gabriel - Big Time",
    ]),
     On = {
       subscribe: ue(
@@ -10487,6 +10497,46 @@ var app = (function() {
           {
             url: "https://soundcloud.com/officialjoejackson/steppin-out-1",
             answer: "Joe Jackson - Steppin' Out",
+          },
+          {
+            url: "https://soundcloud.com/peter-schickele-pdq-bach/pdq-bach-string-quartet-in-f-major-1",
+            answer: "PDQ Bach - String Quartet in F Major",
+          },
+          {
+            url: "https://soundcloud.com/don-henley-official/sunset-grill",
+            answer: "Don Henley - Sunset Grill",
+          },
+          {
+            url: "https://soundcloud.com/joewalshmusic/rocky-mountain-way",
+            answer: "Joe Walsh - Rocky Mountain Way",
+          },
+          {
+            url: "https://soundcloud.com/glenn-frey-official/the-heat-is-on-from-beverly",
+            answer: "Glenn Frey - The Heat Is On",
+          },
+          {
+            url: "https://soundcloud.com/stingraymusickaraoke/don-henley-must-die",
+            answer: "Mojo Nixon - Don Henley Must Die",
+          },
+          {
+            url: "https://soundcloud.com/the-romantics/what-i-like-about-you-1",
+            answer: "The Romantics - What I Like About You",
+          },
+          {
+            url: "https://soundcloud.com/thedoors/break-on-through-to-the-other-side",
+            answer: "The Doors - Break on Through (to the Other Side)",
+          },
+          {
+            url: "https://soundcloud.com/jethrotullmusic/bouree-2001-remastered-version",
+            answer: "Jethro Tull - Bouree",
+          },
+          {
+            url: "https://soundcloud.com/crosbystillsandnash/marrakesh-express-2",
+            answer: "Crosby, Stills, and Nash - Marrakesh Express",
+          },
+          {
+            url: "https://soundcloud.com/peter-gabriel-official/big-time-2012-remastered",
+            answer: "Peter Gabriel - Big Time",
           },
 ],
         Pn
