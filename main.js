@@ -9362,6 +9362,16 @@ var app = (function() {
       "Jethro Tull - Bouree",
       "Crosby, Stills, and Nash - Marrakesh Express",
       "Peter Gabriel - Big Time",
+      "Salt N Pepa - None of Your Business",
+      "Todd Rundgren - I Saw the Light",
+      "The Rascals - Good Lovin'",
+      "The Doobie Brothers - Takin' It to the Streets",
+      "Paul Simon - The Boy in the Bubble",
+      "Grand Funk Railroad - We're an American Band",
+      "The Rolling Stones - Emotional Rescue",
+      "Eddie Money - Baby Hold On",
+      "Foreigner - Say You Will",
+      "Prince - I Would Die 4 U",
    ]),
     On = {
       subscribe: ue(
@@ -10537,6 +10547,46 @@ var app = (function() {
           {
             url: "https://soundcloud.com/peter-gabriel-official/big-time-2012-remastered",
             answer: "Peter Gabriel - Big Time",
+          },
+          {
+            url: "https://soundcloud.com/salt-n-pepa-official/none-of-your-business-perfecto",
+            answer: "Salt N Pepa - None of Your Business",
+          },
+          {
+            url: "https://soundcloud.com/todd-rundgren-official/i-saw-the-light-3",
+            answer: "Todd Rundgren - I Saw the Light",
+          },
+          {
+            url: "https://soundcloud.com/theyoungrascals/good-lovin-single-version",
+            answer: "The Rascals - Good Lovin'",
+          },
+          {
+            url: "https://soundcloud.com/thedoobiebrothers/takin-it-to-the-streets",
+            answer: "The Doobie Brothers - Takin' It to the Streets",
+          },
+          {
+            url: "https://soundcloud.com/paulsimon/the-boy-in-the-bubble",
+            answer: "Paul Simon - The Boy in the Bubble",
+          },
+          {
+            url: "https://soundcloud.com/grandfunkrailroadofficial/were-an-american-band",
+            answer: "Grand Funk Railroad - We're an American Band",
+          },
+          {
+            url: "https://soundcloud.com/rolling-stones-official/emotional-rescue-2009-re",
+            answer: "The Rolling Stones - Emotional Rescue",
+          },
+          {
+            url: "https://soundcloud.com/eddie-money-official/baby-hold-on-2",
+            answer: "Eddie Money - Baby Hold On",
+          },
+          {
+            url: "https://soundcloud.com/foreigner/say-you-will",
+            answer: "Foreigner - Say You Will",
+          },
+          {
+            url: "https://soundcloud.com/prince/i-would-die-4-u-1",
+            answer: "Prince - I Would Die 4 U",
           },
 ],
         Pn
