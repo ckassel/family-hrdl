@@ -9381,6 +9381,10 @@ var app = (function() {
       "Harry Nilsson - Everybody's Talkin'",
       "Jackson Brown - Doctor My Eyes",
       "Leo Sayer - You Make Me Feel Like Dancing",
+      "Santana - Oye Como Va",
+      "Bill Withers - Ain't No Sunshine",
+      "Bonnie Raitt - Runaway",
+      "Dire Straits - Walk of Life",
    ]),
     On = {
       subscribe: ue(
@@ -10632,6 +10636,22 @@ var app = (function() {
           {
             url: "https://soundcloud.com/leosayerofficial/leo-sayer-you-make-me-feel",
             answer: "Leo Sayer - You Make Me Feel Like Dancing",
+          },
+          {
+            url: "https://soundcloud.com/santana-official/oye-como-va-2",
+            answer: "Santana - Oye Como Va",
+          },
+          {
+            url: "https://soundcloud.com/bill-withers-official/aint-no-sunshine",
+            answer: "Bill Withers - Ain't No Sunshine",
+          },
+          {
+            url: "https://soundcloud.com/bonnie-raitt/runaway-remaster",
+            answer: "Bonnie Raitt - Runaway",
+          },
+          {
+            url: "https://soundcloud.com/direstraits/walk-of-life-1",
+            answer: "Dire Straits - Walk of Life",
           },
 ],
         Pn
