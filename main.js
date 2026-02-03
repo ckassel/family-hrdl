@@ -9372,6 +9372,15 @@ var app = (function() {
       "Eddie Money - Baby Hold On",
       "Foreigner - Say You Will",
       "Prince - I Would Die 4 U",
+      "Joni Mitchell - Twisted",
+      "Spinal Tap - Gimme Some Money",
+      "Fleetwood Mac - Never Going Back Again",
+      "James Taylor - Shower the People",
+      "The Spinners - I'll Be Around",
+      "Elton John - Honky Cat",
+      "Harry Nilsson - Everybody's Talkin'",
+      "Jackson Brown - Doctor My Eyes",
+      "Leo Sayer - You Make Me Feel Like Dancing",
    ]),
     On = {
       subscribe: ue(
@@ -10587,6 +10596,42 @@ var app = (function() {
           {
             url: "https://soundcloud.com/prince/i-would-die-4-u-1",
             answer: "Prince - I Would Die 4 U",
+          },
+          {
+            url: "https://soundcloud.com/jonimitchell/twisted",
+            answer: "Joni Mitchell - Twisted",
+          },
+          {
+            url: "https://soundcloud.com/spinal-tap-official/gimme-some-money",
+            answer: "Spinal Tap - Gimme Some Money",
+          },
+          {
+            url: "https://soundcloud.com/fleetwoodmacofficial/never-going-back-again-2004",
+            answer: "Fleetwood Mac - Never Going Back Again",
+          },
+          {
+            url: "https://soundcloud.com/jamestaylorofficial/shower-the-people",
+            answer: "James Taylor - Shower the People",
+          },
+          {
+            url: "https://soundcloud.com/spinnersofficial/spinners-ill-be-around",
+            answer: "The Spinners - I'll Be Around",
+          },
+          {
+            url: "https://soundcloud.com/elton-john/honky-cat",
+            answer: "Elton John - Honky Cat",
+          },
+          {
+            url: "https://soundcloud.com/harry-nilsson-official/everybodys-talkin-from",
+            answer: "Harry Nilsson - Everybody's Talkin'",
+          },
+          {
+            url: "https://soundcloud.com/jacksonbrowne/jackson-browne-doctor-my-eyes",
+            answer: "Jackson Browne - Doctor My Eyes",
+          },
+          {
+            url: "https://soundcloud.com/leosayerofficial/leo-sayer-you-make-me-feel",
+            answer: "Leo Sayer - You Make Me Feel Like Dancing",
           },
 ],
         Pn
