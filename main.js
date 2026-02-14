@@ -9385,6 +9385,17 @@ var app = (function() {
       "Bill Withers - Ain't No Sunshine",
       "Bonnie Raitt - Runaway",
       "Dire Straits - Walk of Life",
+      "Electric Light Orchestra - Can't Get It Out of My Head",
+      "Linda Ronstadt - Blue Bayou",
+      "Heart - These Dreams",
+      "Carly Simon - Anticipation",
+      "Carole King - You've Got a Friend",
+      "Colbie Caillat - Bubbly",
+      "Traditional - John Jacob Jingleheimer Schmidt",
+      "John Mayer - Your Body Is a Wonderland",
+      "Paul Simon - Me and Julio Down By the Schoolyard",
+      "Sara Bareilles - Love Song",
+      "Cher - I Found Someone",
    ]),
     On = {
       subscribe: ue(
@@ -10652,6 +10663,50 @@ var app = (function() {
           {
             url: "https://soundcloud.com/direstraits/walk-of-life-1",
             answer: "Dire Straits - Walk of Life",
+          },
+          {
+            url: "https://soundcloud.com/electric-light-orchestra/cant-get-it-out-of-my-head-2",
+            answer: "Electric Light Orchestra - Can't Get It Out of My Head",
+          },
+          {
+            url: "https://soundcloud.com/lindaronstadt/blue-bayou",
+            answer: "Linda Ronstadt - Blue Bayou",
+          },
+          {
+            url: "https://soundcloud.com/heartofficial/these-dreams",
+            answer: "Heart - These Dreams",
+          },
+          {
+            url: "https://soundcloud.com/carly-simon-official/anticipation",
+            answer: "Carly Simon - Anticipation",
+          },
+          {
+            url: "https://soundcloud.com/carole-king-official/youve-got-a-friend",
+            answer: "Carole King - You've Got a Friend",
+          },
+          {
+            url: "https://soundcloud.com/colbie-caillat-official/bubbly-album-version",
+            answer: "Colbie Caillat - Bubbly",
+          },
+          {
+            url: "https://soundcloud.com/thecountdownkids/john-jacob-jingleheimer-4",
+            answer: "Traditional - John Jacob Jingleheimer Schmidt",
+          },
+          {
+            url: "https://soundcloud.com/johnmayer/your-body-is-a-wonderland",
+            answer: "John Mayer - Your Body Is a Wonderland",
+          },
+          {
+            url: "https://soundcloud.com/paulsimon/me-and-julio-down-by-the",
+            answer: "Paul Simon - Me and Julio Down By the Schoolyard",
+          },
+          {
+            url: "https://soundcloud.com/sarabareilles/love-song-1",
+            answer: "Sara Bareilles - Love Song",
+          },
+          {
+            url: "https://soundcloud.com/cher-scmusic/i-found-someone",
+            answer: "Cher - I Found Someone",
           },
 ],
         Pn
