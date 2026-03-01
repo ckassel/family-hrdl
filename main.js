@@ -9396,6 +9396,21 @@ var app = (function() {
       "Paul Simon - Me and Julio Down By the Schoolyard",
       "Sara Bareilles - Love Song",
       "Cher - I Found Someone",
+      "Avenue Q - There's a Fine, Fine Line",
+      "Legally Blonde - Omigod You Guys",
+      "In the Heights - 96,000",
+      "Matilda - Revolting Children",
+      "Spamalot - The Song That Goes Like This",
+      "Seussical - Notice Me, Horton",
+      "The Wanted - Glad You Came",
+      "Alex Warren - Ordinary",
+      "Olivia Rodriguo - obsessed",
+      "David Guetta and Bebe Rexha - I'm Good",
+      "Sia - Titanium",
+      "Gwen Stefani - Hollaback Girl",
+      "Nicky Youre - Sunroof",
+      "Demi Lovato - Heart Attack",
+      "Eminem feat Rihanna - Love the Way You Lie",
    ]),
     On = {
       subscribe: ue(
@@ -10707,6 +10722,66 @@ var app = (function() {
           {
             url: "https://soundcloud.com/cher-scmusic/i-found-someone",
             answer: "Cher - I Found Someone",
+          },
+          {
+            url: "https://soundcloud.com/stephaniedabruzzo/theres-a-fine-fine-line",
+            answer: "Avenue Q - There's a Fine, Fine Line",
+          },
+          {
+            url: "https://soundcloud.com/original-london-cast/omigod-you-guys",
+            answer: "Legally Blonde - Omigod You Guys",
+          },
+          {
+            url: "https://soundcloud.com/intheheights/96000-1",
+            answer: "In the Heights - 96,000",
+          },
+          {
+            url: "https://soundcloud.com/daniel-warwick-preece/matilda-the-musical-revolting",
+            answer: "Matilda - Revolting Children",
+          },
+          {
+            url: "https://soundcloud.com/christopher-sieber/the-song-that-goes-like-this",
+            answer: "Spamalot - The Song That Goes Like This",
+          },
+          {
+            url: "https://soundcloud.com/greeneggsandham-2/17-notice-me-horton",
+            answer: "Seussical - Notice Me, Horton",
+          },
+          {
+            url: "https://soundcloud.com/thewanted/glad-you-came-2021-master",
+            answer: "The Wanted - Glad You Came",
+          },
+          {
+            url: "https://soundcloud.com/alexwaarren/ordinary",
+            answer: "Alex Warren - Ordinary",
+          },
+          {
+            url: "https://soundcloud.com/oliviarodrigo/obsessed",
+            answer: "Olivia Rodriguo - obsessed",
+          },
+          {
+            url: "https://soundcloud.com/davidguetta/im-good-blue",
+            answer: "David Guetta and Bebe Rexha - I'm Good",
+          },
+          {
+            url: "https://soundcloud.com/davidguetta/titanium-feat-sia",
+            answer: "Sia - Titanium",
+          },
+          {
+            url: "https://soundcloud.com/gwen-stefani/hollaback-girl-album-version-1",
+            answer: "Gwen Stefani - Hollaback Girl",
+          },
+          {
+            url: "https://soundcloud.com/nicky_youre/nicky-youre-sunroof",
+            answer: "Nicky Youre - Sunroof",
+          },
+          {
+            url: "https://soundcloud.com/ddlovato/heart-attack",
+            answer: "Demi Lovato - Heart Attack",
+          },
+          {
+            url: "https://soundcloud.com/eminemofficial/love-the-way-you-lie-1",
+            answer: "Eminem - Love the Way You Lie",
           },
 ],
         Pn
