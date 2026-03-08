@@ -9411,6 +9411,13 @@ var app = (function() {
       "Nicky Youre - Sunroof",
       "Demi Lovato - Heart Attack",
       "Eminem feat Rihanna - Love the Way You Lie",
+      "Paul McCartney - My Brave Face",
+      "Talking Heads - Girlfriend Is Better",
+      "Joe Jackson - Real Men",
+      "'Til Tuesday - Love in a Vacuum",
+      "Hall and Oates - You Make My Dreams (Come True)",
+      "Johnny Cash - A Boy Named Sue",
+      "ZZ Top - Gimme All Your Lovin'",
    ]),
     On = {
       subscribe: ue(
@@ -10782,6 +10789,34 @@ var app = (function() {
           {
             url: "https://soundcloud.com/eminemofficial/love-the-way-you-lie-1",
             answer: "Eminem - Love the Way You Lie",
+          },
+          {
+            url: "https://soundcloud.com/paulmccartney/my-brave-face-remastered-2017",
+            answer: "Paul McCartney - My Brave Face",
+          },
+          {
+            url: "https://soundcloud.com/talkingheads/girlfriend-is-better-2005",
+            answer: "Talking Heads - Girlfriend Is Better",
+          },
+          {
+            url: "https://soundcloud.com/officialjoejackson/real-men-album-version",
+            answer: "Joe Jackson - Real Men",
+          },
+          {
+            url: "https://soundcloud.com/tiltuesday/love-in-a-vacuum",
+            answer: "'Til Tuesday - Love in a Vacuum",
+          },
+          {
+            url: "https://soundcloud.com/daryl-hall-john-oates/you-make-my-dreams",
+            answer: "Hall and Oates - You Make My Dreams (Come True)",
+          },
+          {
+            url: "https://soundcloud.com/johnnycash/a-boy-named-sue-4",
+            answer: "Johnny Cash - A Boy Named Sue",
+          },
+          {
+            url: "https://soundcloud.com/zztopmusic/gimme-all-your-lovin-2",
+            answer: "ZZ Top - Gimme All Your Lovin'",
           },
 ],
         Pn
