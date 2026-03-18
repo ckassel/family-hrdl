@@ -9418,6 +9418,15 @@ var app = (function() {
       "Hall and Oates - You Make My Dreams (Come True)",
       "Johnny Cash - A Boy Named Sue",
       "ZZ Top - Gimme All Your Lovin'",
+      "Barry Mann - Who Put the Bomp",
+      "The Surfaris - Wipe Out",
+      "Procol Harum - A Whiter Shade of Pale",
+      "Zager and Evans - In the Year 2525",
+      "The Five Stairsteps - Oooh Child",
+      "Godspell - Day by Day",
+      "Elvin Bishop - Fooled Around and Fell in Love",
+      "Shannon - Let the Music Play",
+      "MARRS - Pump Up the Volume",
    ]),
     On = {
       subscribe: ue(
@@ -10817,6 +10826,42 @@ var app = (function() {
           {
             url: "https://soundcloud.com/zztopmusic/gimme-all-your-lovin-2",
             answer: "ZZ Top - Gimme All Your Lovin'",
+          },
+          {
+            url: "https://soundcloud.com/barry-mann-official/who-put-the-bomp-3",
+            answer: "Barry Mann - Who Put the Bomp",
+          },
+          {
+            url: "https://soundcloud.com/the-surfaris/wipe-out-10",
+            answer: "The Surfaris - Wipe Out",
+          },
+          {
+            url: "https://soundcloud.com/procol-harum-official/a-whiter-shade-of-pale-5",
+            answer: "Procol Harum - A Whiter Shade of Pale",
+          },
+          {
+            url: "https://soundcloud.com/zager-evans/in-the-year-2525-exordius",
+            answer: "Zager and Evans - In the Year 2525",
+          },
+          {
+            url: "https://soundcloud.com/the-five-stairsteps/o-o-h-child",
+            answer: "The Five Stairsteps - Ooh Child",
+          },
+          {
+            url: "https://soundcloud.com/robinlamont/day-by-day-from-godspell",
+            answer: "Godspell - Day by Day",
+          },
+          {
+            url: "https://soundcloud.com/elvin-bishop/fooled-around-and-fell-in-1",
+            answer: "Elvin Bishop - Fooled Around and Fell in Love",
+          },
+          {
+            url: "https://soundcloud.com/cleopatra-recs/shannon-let-the-music-play",
+            answer: "Shannon - Let the Music Play",
+          },
+          {
+            url: "https://soundcloud.com/marrsofficial/pump-up-the-volume-uk-12-mix",
+            answer: "MARRS - Pump Up the Volume",
           },
 ],
         Pn
