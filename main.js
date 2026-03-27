@@ -9427,6 +9427,16 @@ var app = (function() {
       "Elvin Bishop - Fooled Around and Fell in Love",
       "Shannon - Let the Music Play",
       "MARRS - Pump Up the Volume",
+      "ABBA - Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "Madonna - Hung Up",
+      "Electric Light Orchestra - It's Over",
+      "Talking Heads - Take Me to the River",
+      "The Doors - Love Her Madly",
+      "Fleetwood Mac - Monday Morning",
+      "The Who - The Real Me",
+      "Pink Floyd - Have a Cigar",
+      "Michael Jackson - Rock with You",
+      "Joni Mitchell - Help Me",
    ]),
     On = {
       subscribe: ue(
@@ -10862,6 +10872,46 @@ var app = (function() {
           {
             url: "https://soundcloud.com/marrsofficial/pump-up-the-volume-uk-12-mix",
             answer: "MARRS - Pump Up the Volume",
+          },
+          {
+            url: "https://soundcloud.com/abba-official/gimme-gimme-gimme-a-man-after",
+            answer: "ABBA - Gimme! Gimme! Gimme! (A Man After Midnight)",
+          },
+          {
+            url: "https://soundcloud.com/madonna/hung-up",
+            answer: "Madonna - Hung Up",
+          },
+          {
+            url: "https://soundcloud.com/electric-light-orchestra/its-over-1",
+            answer: "Electric Light Orchestra - It's Over",
+          },
+          {
+            url: "https://soundcloud.com/talkingheads/take-me-to-the-river-2",
+            answer: "Talking Heads - Take Me to the River",
+          },
+          {
+            url: "https://soundcloud.com/thedoors/love-her-madly",
+            answer: "The Doors - Love Her Madly",
+          },
+          {
+            url: "https://soundcloud.com/fleetwoodmacofficial/monday-morning",
+            answer: "Fleetwood Mac - Monday Morning",
+          },
+          {
+            url: "https://soundcloud.com/thewho/the-real-me-1",
+            answer: "The Who - The Real Me",
+          },
+          {
+            url: "https://soundcloud.com/officialpinkfloyd/have-a-cigar-2011-remastered",
+            answer: "Pink Floyd - Have a Cigar",
+          },
+          {
+            url: "https://soundcloud.com/mjimmortal/rock-with-you-single-version",
+            answer: "Michael Jackson - Rock with You",
+          },
+          {
+            url: "https://soundcloud.com/jonimitchell/help-me-court-and-spark-demo",
+            answer: "Joni Mitchell - Help Me",
           },
 ],
         Pn
