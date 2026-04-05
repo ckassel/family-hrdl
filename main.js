@@ -9437,6 +9437,12 @@ var app = (function() {
       "Pink Floyd - Have a Cigar",
       "Michael Jackson - Rock with You",
       "Joni Mitchell - Help Me",
+      "Michael Jackson - Ben",
+      "Tony Orlando - Say, Has Anybody Seen My Sweet Gypsy Rose",
+      "Gypsy - You'll Never Get Away from Me",
+      "Foreigner - Waiting for a Girl Like You",
+      "Joan Osborne - Love Is Alive",
+      "Ashford & Simpson - Solid",
    ]),
     On = {
       subscribe: ue(
@@ -10912,6 +10918,30 @@ var app = (function() {
           {
             url: "https://soundcloud.com/jonimitchell/help-me-court-and-spark-demo",
             answer: "Joni Mitchell - Help Me",
+          },
+          {
+            url: "https://soundcloud.com/mjimmortal/ben",
+            answer: "Michael Jackson - Ben",
+          },
+          {
+            url: "https://soundcloud.com/tonyorlandoofficial/say-has-anybody-seen-my-sweet",
+            answer: "Tony Orlando - Say, Has Anybody Seen My Sweet Gypsy Rose",
+          },
+          {
+            url: "https://soundcloud.com/audra-mcdonald/youll-never-get-away-from-me",
+            answer: "Gypsy - You'll Never Get Away from Me",
+          },
+          {
+            url: "https://soundcloud.com/foreigner/waiting-for-a-girl-like-you-8",
+            answer: "Foreigner - Waiting for a Girl Like You",
+          },
+          {
+            url: "https://soundcloud.com/joan-osborne-official/love-is-alive",
+            answer: "Joan Osborne - Love Is Alive",
+          },
+          {
+            url: "https://soundcloud.com/ashfordsimpson/solid-1",
+            answer: "Ashford & Simpson - Solid",
           },
 ],
         Pn
