@@ -9443,6 +9443,19 @@ var app = (function() {
       "Foreigner - Waiting for a Girl Like You",
       "Joan Osborne - Love Is Alive",
       "Ashford & Simpson - Solid",
+      "Air Supply - Making Love out of Nothing at All",
+      "Crosby, Stills, Nash, and Young - Woodstock",
+      "Traffic - Dear Mr. Fantasy",
+      "Jethro Tull - Cross-Eyed Mary",
+      "James Taylor - Fire and Rain",
+      "Phil Collins - I Missed Again",
+      "Simon & Garfunkel - April Come She Will",
+      "Yusuf Cat Stevens - If You Want to Sing Out, Sing Out",
+      "The Pretenders - Back on the Chain Gang",
+      "Peter Gabriel - I Have the Touch",
+      "Christine Lavin - Don't Ever Call Your Sweetheart by His Name",
+      "Tom Petty - Breakdown",
+      "Steve Miller Band - Jet Airliner",
    ]),
     On = {
       subscribe: ue(
@@ -10942,6 +10955,58 @@ var app = (function() {
           {
             url: "https://soundcloud.com/ashfordsimpson/solid-1",
             answer: "Ashford & Simpson - Solid",
+          },
+          {
+            url: "https://soundcloud.com/air-supply-official/making-love-out-of-nothing-3",
+            answer: "Air Supply - Making Love out of Nothing at All",
+          },
+          {
+            url: "https://soundcloud.com/crosbystillsandnash/woodstock",
+            answer: "Crosby, Stills, Nash, and Young - Woodstock",
+          },
+          {
+            url: "https://soundcloud.com/traffic-official/dear-mr-fantasy-album-version",
+            answer: "Traffic - Dear Mr. Fantasy",
+          },
+          {
+            url: "https://soundcloud.com/jethrotullmusic/cross-eyed-mary-1",
+            answer: "Jethro Tull - Cross-Eyed Mary",
+          },
+          {
+            url: "https://soundcloud.com/jamestaylorofficial/james-taylor-fire-and-rain",
+            answer: "James Taylor - Fire and Rain",
+          },
+          {
+            url: "https://soundcloud.com/phil-collins-official/i-missed-again-2015-remastered",
+            answer: "Phil Collins - I Missed Again",
+          },
+          {
+            url: "https://soundcloud.com/simon-garfunkel-official/april-come-she-will-1",
+            answer: "Simon & Garfunkel - April Come She Will",
+          },
+          {
+            url: "https://soundcloud.com/yusufcatstevens/if-you-want-to-sing-out-sing",
+            answer: "Yusuf Cat Stevens - If You Want to Sing Out, Sing Out",
+          },
+          {
+            url: "https://soundcloud.com/the-pretenders/back-on-the-chain-gang-1",
+            answer: "The Pretenders - Back on the Chain Gang",
+          },
+          {
+            url: "https://soundcloud.com/peter-gabriel-official/i-have-the-touch-1",
+            answer: "Peter Gabriel - I Have the Touch",
+          },
+          {
+            url: "https://soundcloud.com/christine-lavin-official/dont-ever-call-your-sweetheart",
+            answer: "Christine Lavin - Don't Ever Call Your Sweetheart by His Name",
+          },
+          {
+            url: "https://soundcloud.com/tompettymusic/breakdown-6",
+            answer: "Tom Petty - Breakdown",
+          },
+          {
+            url: "https://soundcloud.com/thestevemillerband/jet-airliner",
+            answer: "Steve Miller Band - Jet Airliner",
           },
 ],
         Pn
