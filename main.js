@@ -9456,6 +9456,12 @@ var app = (function() {
       "Christine Lavin - Don't Ever Call Your Sweetheart by His Name",
       "Tom Petty - Breakdown",
       "Steve Miller Band - Jet Airliner",
+      "Judy Garland - Give My Regards to Broadway",
+      "Peggy Lee - Till There Was You",
+      "Hamilton - Wait for It",
+      "Nat King Cole - Wouldn't It Be Loverly",
+      "Ella Fitzgerald - I Get a Kick out of You",
+      "Anita O'Day - You're the Top",
    ]),
     On = {
       subscribe: ue(
@@ -11007,6 +11013,30 @@ var app = (function() {
           {
             url: "https://soundcloud.com/thestevemillerband/jet-airliner",
             answer: "Steve Miller Band - Jet Airliner",
+          },
+          {
+            url: "https://soundcloud.com/judy-garland-official/give-my-regards-to-broadway-6",
+            answer: "Judy Garland - Give My Regards to Broadway",
+          },
+          {
+            url: "https://soundcloud.com/peggyleeofficial/till-there-was-you-1995",
+            answer: "Peggy Lee - Till There Was You",
+          },
+          {
+            url: "https://soundcloud.com/leslieodomjr/wait-for-it",
+            answer: "Hamilton - Wait for It",
+          },
+          {
+            url: "https://soundcloud.com/natkingcole/wouldnt-it-be-loverly",
+            answer: "Nat King Cole - Wouldn't It Be Loverly",
+          },
+          {
+            url: "https://soundcloud.com/ellafitzgerald/i-get-a-kick-out-of-you-2",
+            answer: "Ella Fitzgerald - I Get a Kick out of You",
+          },
+          {
+            url: "https://soundcloud.com/anita-oday/youre-the-top",
+            answer: "Anita O'Day - You're the Top",
           },
 ],
         Pn
