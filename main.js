@@ -9462,6 +9462,8 @@ var app = (function() {
       "Nat King Cole - Wouldn't It Be Loverly",
       "Ella Fitzgerald - I Get a Kick out of You",
       "Anita O'Day - You're the Top",
+      "Noah Kahan - Northern Attitude",
+      "Olivia Rodrigo - Drop Dead",
    ]),
     On = {
       subscribe: ue(
@@ -11037,6 +11039,14 @@ var app = (function() {
           {
             url: "https://soundcloud.com/anita-oday/youre-the-top",
             answer: "Anita O'Day - You're the Top",
+          },
+          {
+            url: "https://soundcloud.com/noahkahan/noah-kahan-hozier-northern",
+            answer: "Noah Kahan - Northern Attitude",
+          },
+          {
+            url: "https://soundcloud.com/oliviarodrigo/drop-dead",
+            answer: "Olivia Rodrigo - Drop Dead",
           },
 ],
         Pn
