@@ -9464,6 +9464,20 @@ var app = (function() {
       "Anita O'Day - You're the Top",
       "Noah Kahan - Northern Attitude",
       "Olivia Rodrigo - Drop Dead",
+      "Sade - Kiss of Life",
+      "Prince - Raspberry Beret",
+      "Ratt - Round and Round",
+      "Quiet Riot - Cum on Feel the Noize",
+      "Scorpions - Rock You Like a Hurricane",
+      "Judas Priest - You've Got Another Thing Comin'",
+      "Def Leppard - Photograph",
+      "Ozzy Osbourne - Shot in the Dark",
+      "Motley Crue - Smokin' in the Boys' Room",
+      "Twisted Sister - We're Not Gonna Take It",
+      "Van Halen - When It's Love",
+      "Live - Selling the Drama",
+      "April Wine - Just Between You and Me",
+      "Guns N' Roses - Paradise City",
    ]),
     On = {
       subscribe: ue(
@@ -11047,6 +11061,62 @@ var app = (function() {
           {
             url: "https://soundcloud.com/oliviarodrigo/drop-dead",
             answer: "Olivia Rodrigo - Drop Dead",
+          },
+          {
+            url: "https://soundcloud.com/sadeofficial/kiss-of-love",
+            answer: "Sade - Kiss of Life",
+          },
+          {
+            url: "https://soundcloud.com/sadeofficial/kiss-of-love",
+            answer: "Prince - Raspberry Beret",
+          },
+          {
+            url: "https://soundcloud.com/ratt/round-and-round-45-version",
+            answer: "Ratt - Round and Round",
+          },
+          {
+            url: "https://soundcloud.com/quiet-riot-official/cum-on-feel-the-noize-2",
+            answer: "Quiet Riot - Cum on Feel the Noize",
+          },
+          {
+            url: "https://soundcloud.com/scorpions-official/rock-you-like-a-hurricane-4",
+            answer: "Scorpions - Rock You Like a Hurricane",
+          },
+          {
+            url: "https://soundcloud.com/judaspriestofficial/youve-got-another-thing-comin",
+            answer: "Judas Priest - You've Got Another Thing Comin'",
+          },
+          {
+            url: "https://soundcloud.com/def-leppard-official/photograph",
+            answer: "Def Leppard - Photograph",
+          },
+          {
+            url: "https://soundcloud.com/ozzy-osbourne-official/shot-in-the-dark",
+            answer: "Ozzy Osbourne - Shot in the Dark",
+          },
+          {
+            url: "https://soundcloud.com/motley-crue/smokin-in-the-boys-room-1",
+            answer: "Motley Crue - Smokin' in the Boys' Room",
+          },
+          {
+            url: "https://soundcloud.com/twistedsister/were-not-gonna-take-it",
+            answer: "Twisted Sister - We're Not Gonna Take It",
+          },
+          {
+            url: "https://soundcloud.com/vanhalenofficial/when-its-love-1",
+            answer: "Van Halen - When It's Love",
+          },
+          {
+            url: "https://soundcloud.com/live-official/selling-the-drama-album",
+            answer: "Live - Selling the Drama",
+          },
+          {
+            url: "https://soundcloud.com/aprilwineofficial/just-between-you-and-me",
+            answer: "April Wine - Just Between You and Me",
+          },
+          {
+            url: "https://soundcloud.com/guns-n-roses-official/paradise-city",
+            answer: "Guns N' Roses - Paradise City",
           },
 ],
         Pn
