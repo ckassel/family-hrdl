@@ -11067,7 +11067,7 @@ var app = (function() {
             answer: "Sade - Kiss of Life",
           },
           {
-            url: "https://soundcloud.com/sadeofficial/kiss-of-love",
+            url: "https://soundcloud.com/prince/raspberry-beret-2025-remaster",
             answer: "Prince - Raspberry Beret",
           },
           {
