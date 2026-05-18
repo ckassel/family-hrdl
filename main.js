@@ -9478,6 +9478,19 @@ var app = (function() {
       "Live - Selling the Drama",
       "April Wine - Just Between You and Me",
       "Guns N' Roses - Paradise City",
+      "Genesis - In Too Deep",
+      "Pat Benatar - Wuthering Heights",
+      "Little River Band - Lady",
+      "Dr. Hook - Sexy Eyes",
+      "Peter, Paul and Mary - Lemon Tree",
+      "Leonard Cohen - Chelsea Hotel #2",
+      "Joan Baez - It Ain't Me Babe",
+      "Joni Mitchell - Both Sides Now",
+      "Aimee Mann - One",
+      "Judy Collins - Suzanne",
+      "The Byrds - Turn! Turn! Turn!",
+      "Arlo Guthrie - Alice's Restaurant Massacre",
+      "Dan Fogelberg - Same Old Lang Syne",
    ]),
     On = {
       subscribe: ue(
@@ -11117,6 +11130,58 @@ var app = (function() {
           {
             url: "https://soundcloud.com/guns-n-roses-official/paradise-city",
             answer: "Guns N' Roses - Paradise City",
+          },
+          {
+            url: "https://soundcloud.com/genesis4/in-too-deep-2007-remastered",
+            answer: "Genesis - In Too Deep",
+          },
+          {
+            url: "https://soundcloud.com/pat-benatar-official/wuthering-heights",
+            answer: "Pat Benatar - Wuthering Heights",
+          },
+          {
+            url: "https://soundcloud.com/little-river-band-official/lady-2010-digital-remaster",
+            answer: "Little River Band - Lady",
+          },
+          {
+            url: "https://soundcloud.com/dr-hook-music/sexy-eyes-single-version",
+            answer: "Dr. Hook - Sexy Eyes",
+          },
+          {
+            url: "https://soundcloud.com/peterpaulmary/lemon-tree",
+            answer: "Peter, Paul and Mary - Lemon Tree",
+          },
+          {
+            url: "https://soundcloud.com/leonardcohen/chelsea-hotel-2",
+            answer: "Leonard Cohen - Chelsea Hotel #2",
+          },
+          {
+            url: "https://soundcloud.com/joan-baez/it-aint-me-babe",
+            answer: "Joan Baez - It Ain't Me Babe",
+          },
+          {
+            url: "https://soundcloud.com/jonimitchell/both-sides-now-1",
+            answer: "Joni Mitchell - Both Sides Now",
+          },
+          {
+            url: "https://soundcloud.com/aimee-mann-official/one",
+            answer: "Aimee Mann - One",
+          },
+          {
+            url: "https://soundcloud.com/judycollinsofficial/judy-collins-suzanne",
+            answer: "Judy Collins - Suzanne",
+          },
+          {
+            url: "https://soundcloud.com/thebyrds/turn-turn-turn-to-everything-1",
+            answer: "The Byrds - Turn! Turn! Turn!",
+          },
+          {
+            url: "https://soundcloud.com/arlo-guthrie/alices-restaurant-massacre",
+            answer: "Arlo Guthrie - Alice's Restaurant Massacre",
+          },
+          {
+            url: "https://soundcloud.com/dan-fogelberg/same-old-lang-syne-3",
+            answer: "Dan Fogelberg - Same Old Lang Syne",
           },
 ],
         Pn
