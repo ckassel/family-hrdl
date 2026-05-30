@@ -9491,6 +9491,11 @@ var app = (function() {
       "The Byrds - Turn! Turn! Turn!",
       "Arlo Guthrie - Alice's Restaurant Massacre",
       "Dan Fogelberg - Same Old Lang Syne",
+      "Toto - 99",
+      "Foreigner - Feels Like the First Time",
+      "Eric Clapton - Forever Man",
+      "Dire Straits - So Far Away",
+      "REM - Shiny Happy People",
    ]),
     On = {
       subscribe: ue(
@@ -11182,6 +11187,26 @@ var app = (function() {
           {
             url: "https://soundcloud.com/dan-fogelberg/same-old-lang-syne-3",
             answer: "Dan Fogelberg - Same Old Lang Syne",
+          },
+          {
+            url: "https://soundcloud.com/toto-official/99-1",
+            answer: "Toto - 99",
+          },
+          {
+            url: "https://soundcloud.com/foreigner/feels-like-the-first-time-4",
+            answer: "Foreigner - Feels Like the First Time",
+          },
+          {
+            url: "https://soundcloud.com/ericclapton/forever-man-1",
+            answer: "Eric Clapton - Forever Man",
+          },
+          {
+            url: "https://soundcloud.com/direstraits/so-far-away",
+            answer: "Dire Straits - So Far Away",
+          },
+          {
+            url: "https://soundcloud.com/rem-official/shiny-happy-people-2",
+            answer: "REM - Shiny Happy People",
           },
 ],
         Pn
