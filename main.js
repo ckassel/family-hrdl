@@ -9496,6 +9496,17 @@ var app = (function() {
       "Eric Clapton - Forever Man",
       "Dire Straits - So Far Away",
       "REM - Shiny Happy People",
+      "The Clash - London Calling",
+      "Lenny Kravitz - It Ain't Over 'Til It's Over",
+      "Bachman-Turner Overdrive - Let It Ride",
+      "Electric Light Orchestra - Hold on Tight",
+      "The Eagles - I Can't Tell You Why",
+      "Cheap Trick - Surrender",
+      "Styx - Mr. Roboto",
+      "Huey Lewis & the News - If This Is It",
+      "Don Henley - All She Wants to Do Is Dance",
+      "Panic! At the Disco - High Hopes",
+      "Taylor Swift feat Brandon Urie - ME!",
    ]),
     On = {
       subscribe: ue(
@@ -11207,6 +11218,50 @@ var app = (function() {
           {
             url: "https://soundcloud.com/rem-official/shiny-happy-people-2",
             answer: "REM - Shiny Happy People",
+          },
+          {
+            url: "https://soundcloud.com/theclash/london-calling-remastered",
+            answer: "The Clash - London Calling",
+          },
+          {
+            url: "https://soundcloud.com/lennykravitz/it-aint-over-til-its-over-1",
+            answer: "Lenny Kravitz - It Ain't Over 'Til It's Over",
+          },
+          {
+            url: "https://soundcloud.com/bachman-turner-overdrive/let-it-ride",
+            answer: "Bachman-Turner Overdrive - Let It Ride",
+          },
+          {
+            url: "https://soundcloud.com/electric-light-orchestra/hold-on-tight-2",
+            answer: "Electric Light Orchestra - Hold on Tight",
+          },
+          {
+            url: "https://soundcloud.com/eaglesofficial/i-cant-tell-you-why",
+            answer: "The Eagles - I Can't Tell You Why",
+          },
+          {
+            url: "https://soundcloud.com/cheaptrickofficial/surrender-1",
+            answer: "Cheap Trick - Surrender",
+          },
+          {
+            url: "https://soundcloud.com/styx-official/mr-roboto",
+            answer: "Styx - Mr. Roboto",
+          },
+          {
+            url: "https://soundcloud.com/huey-lewis-and-the-news-official/if-this-is-it-4",
+            answer: "Huey Lewis & the News - If This Is It",
+          },
+          {
+            url: "https://soundcloud.com/don-henley-official/all-she-wants-to-do-is-dance",
+            answer: "Don Henley - All She Wants to Do Is Dance",
+          },
+          {
+            url: "https://soundcloud.com/panicatthedisco/high-hopes",
+            answer: "Panic! At the Disco - High Hopes",
+          },
+          {
+            url: "https://soundcloud.com/taylorswiftofficial/me-feat-brendon-urie-of-panic",
+            answer: "Taylor Swift feat Brendon Urie - ME!",
           },
 ],
         Pn
