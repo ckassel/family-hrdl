@@ -9507,6 +9507,16 @@ var app = (function() {
       "Don Henley - All She Wants to Do Is Dance",
       "Panic! At the Disco - High Hopes",
       "Taylor Swift feat Brandon Urie - ME!",
+      "Ed Sheeran - Shivers",
+      "Ariana Grande - Break Free",
+      "Indigo Girls - Romeo and Juliet",
+      "Shawn Colvin - Sunny Came Home",
+      "Jewel - You Were Meant for Me",
+      "Paula Cole - I Am So Ordinary",
+      "The Police - De Do Do Do, De Da Da Da",
+      "Phil Collins - Take Me Home",
+      "John Coltrane - Blue Train",
+      "Duke Ellington - It Don't Mean a Thing",
    ]),
     On = {
       subscribe: ue(
@@ -11262,6 +11272,46 @@ var app = (function() {
           {
             url: "https://soundcloud.com/taylorswiftofficial/me-feat-brendon-urie-of-panic",
             answer: "Taylor Swift feat Brendon Urie - ME!",
+          },
+          {
+            url: "https://soundcloud.com/edsheeran/ed-sheeran-shivers",
+            answer: "Ed Sheeran - Shivers",
+          },
+          {
+            url: "https://soundcloud.com/arianagrande/break-free",
+            answer: "Ariana Grande - Break Free",
+          },
+          {
+            url: "https://soundcloud.com/indigo-girls-official/romeo-and-juliet-album-version",
+            answer: "Indigo Girls - Romeo and Juliet",
+          },
+          {
+            url: "https://soundcloud.com/shawncolvin/sunny-came-home-6",
+            answer: "Shawn Colvin - Sunny Came Home",
+          },
+          {
+            url: "https://soundcloud.com/jewelofficial/you-were-meant-for-me-album",
+            answer: "Jewel - You Were Meant for Me",
+          },
+          {
+            url: "https://soundcloud.com/paula-cole-official/i-am-so-ordinary-remastered",
+            answer: "Paula Cole - I Am So Ordinary",
+          },
+          {
+            url: "https://soundcloud.com/the-police-official/de-do-do-do-de-da-da-da-2003",
+            answer: "The Police - De Do Do Do, De Da Da Da",
+          },
+          {
+            url: "https://soundcloud.com/phil-collins-official/take-me-home-2016-remastered",
+            answer: "Phil Collins - Take Me Home",
+          },
+          {
+            url: "https://soundcloud.com/johncoltraneofficial/blue-train-1",
+            answer: "John Coltrane - Blue Train",
+          },
+          {
+            url: "https://soundcloud.com/dukeellington/it-dont-mean-a-thing-10",
+            answer: "Duke Ellington - It Don't Mean a Thing",
           },
 ],
         Pn
