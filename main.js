@@ -9517,6 +9517,17 @@ var app = (function() {
       "Phil Collins - Take Me Home",
       "John Coltrane - Blue Train",
       "Duke Ellington - It Don't Mean a Thing",
+      "Charles Mingus - Goodbye Pork Pie Hat",
+      "Billie Holiday - Autumn in New York",
+      "Annie Lennox - Little Bird",
+      "Alanis Morissette - Thank U",
+      "Sheryl Crow - Sweet Child O' Mine",
+      "Tori Amos - Smells Like Teen Spirit",
+      "Sarah McLachlan - Dear God",
+      "Janis Ian - On the Other Side",
+      "Carole King - Beautiful",
+      "Take 6 - Can't Stop the Feeling",
+      "Rockapella - Shape of You",
    ]),
     On = {
       subscribe: ue(
@@ -11312,6 +11323,50 @@ var app = (function() {
           {
             url: "https://soundcloud.com/dukeellington/it-dont-mean-a-thing-10",
             answer: "Duke Ellington - It Don't Mean a Thing",
+          },
+          {
+            url: "https://soundcloud.com/charlesmingus/goodbye-pork-pie-hat-6",
+            answer: "Charles Mingus - Goodbye Pork Pie Hat",
+          },
+          {
+            url: "https://soundcloud.com/billieholliday/autumn-in-new-york-455794935",
+            answer: "Billie Holiday - Autumn in New York",
+          },
+          {
+            url: "https://soundcloud.com/annie-lennox-official/little-bird",
+            answer: "Annie Lennox - Little Bird",
+          },
+          {
+            url: "https://soundcloud.com/alanismorissette/thank-u",
+            answer: "Alanis Morissette - Thank U",
+          },
+          {
+            url: "https://soundcloud.com/sherylcrow/sweet-child-o-mine-1",
+            answer: "Sheryl Crow - Sweet Child O' Mine",
+          },
+          {
+            url: "https://soundcloud.com/tori-amos-official/smells-like-teen-spirit-2015",
+            answer: "Tori Amos - Smells Like Teen Spirit",
+          },
+          {
+            url: "https://soundcloud.com/sarah-mclachlan/dear-god",
+            answer: "Sarah McLachlan - Dear God",
+          },
+          {
+            url: "https://soundcloud.com/janisian-sc/the-other-side-of-the-sun-live",
+            answer: "Janis Ian - On the Other Side",
+          },
+          {
+            url: "https://soundcloud.com/carole-king-official/beautifull-album-version",
+            answer: "Carole King - Beautiful",
+          },
+          {
+            url: "https://soundcloud.com/take-6-official/cant-stop-the-feeling",
+            answer: "Take 6 - Can't Stop the Feeling",
+          },
+          {
+            url: "https://soundcloud.com/rockapella/shape-of-you",
+            answer: "Rockapella - Shape of You",
           },
 ],
         Pn
