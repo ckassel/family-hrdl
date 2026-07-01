@@ -12090,5 +12090,41 @@ var app = (function() {
     target: document.body,
     props: {},
   });
+
+  // Force-inject working event listeners onto the search field
+  document.addEventListener("DOMContentLoaded", () => {
+      const searchInput = document.querySelector('input[type="text"]');
+      
+      if (searchInput) {
+          // Prevent minified state blockers from trapping keyboard input
+          searchInput.removeAttribute("autocomplete");
+          searchInput.setAttribute("list", "autocomplete-dataset");
+  
+          // Create a native HTML5 data list element that works independently of the framework loop
+          const dataList = document.createElement("datalist");
+          dataList.id = "autocomplete-dataset";
+          document.body.appendChild(dataList);
+  
+          // Fetch your custom dataset values to populate the auto-suggestions
+          searchInput.addEventListener("input", (event) => {
+              const query = event.target.value.toLowerCase();
+              dataList.innerHTML = ""; // Clear out previous results
+  
+              // Replace window.yourDatasetList with the global variable containing your family/song names
+              const items = window.songs || []; 
+              
+              const filtered = items.filter(item => 
+                  item.title.toLowerCase().includes(query) || 
+                  item.artist.toLowerCase().includes(query)
+              );
+  
+              filtered.slice(0, 10).forEach(match => {
+                  const option = document.createElement("option");
+                  option.value = `${match.artist} - ${match.title}`;
+                  dataList.appendChild(option);
+              });
+          });
+      }
+  });
 })();
 
