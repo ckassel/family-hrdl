@@ -12092,42 +12092,43 @@ var app = (function() {
   });
 
   // Force-inject working event listeners onto the search field
-(function() {
-  document.addEventListener("DOMContentLoaded", () => {
-      const searchInput = document.querySelector('input[type="text"]');
-      
-      if (searchInput) {
-          searchInput.removeAttribute("autocomplete");
-          searchInput.setAttribute("list", "autocomplete-dataset");
+  (function() {
+    document.addEventListener("DOMContentLoaded", () => {
+        const searchInput = document.querySelector('input[type="text"]');
+        
+        if (searchInput) {
+            searchInput.removeAttribute("autocomplete");
+            searchInput.setAttribute("list", "autocomplete-dataset");
+    
+            const dataList = document.createElement("datalist");
+            dataList.id = "autocomplete-dataset";
+            
+            // FIX #1 for Safari: Insert the datalist directly next to the input field
+            searchInput.parentNode.insertBefore(dataList, searchInput.nextSibling);
+    
+            searchInput.addEventListener("input", (event) => {
+                const query = event.target.value.toLowerCase();
+                dataList.innerHTML = ""; 
+    
+                const items = window.songs || []; 
+                
+                const filtered = items.filter(item => 
+                    item.title.toLowerCase().includes(query) || 
+                    item.artist.toLowerCase().includes(query)
+                );
+    
+                filtered.slice(0, 10).forEach(match => {
+                    const option = document.createElement("option");
+                    option.value = `${match.artist} - ${match.title}`;
+                    dataList.appendChild(option);
+                });
   
-          const dataList = document.createElement("datalist");
-          dataList.id = "autocomplete-dataset";
-          
-          // FIX #1 for Safari: Insert the datalist directly next to the input field
-          searchInput.parentNode.insertBefore(dataList, searchInput.nextSibling);
-  
-          searchInput.addEventListener("input", (event) => {
-              const query = event.target.value.toLowerCase();
-              dataList.innerHTML = ""; 
-  
-              const items = window.songs || []; 
-              
-              const filtered = items.filter(item => 
-                  item.title.toLowerCase().includes(query) || 
-                  item.artist.toLowerCase().includes(query)
-              );
-  
-              filtered.slice(0, 10).forEach(match => {
-                  const option = document.createElement("option");
-                  option.value = `${match.artist} - ${match.title}`;
-                  dataList.appendChild(option);
-              });
-
-              // FIX #2 for Safari: Clear and reset the list attribute to force a visual layout refresh
-              searchInput.removeAttribute("list");
-              searchInput.setAttribute("list", "autocomplete-dataset");
-          });
-      }
-  });
+                // FIX #2 for Safari: Clear and reset the list attribute to force a visual layout refresh
+                searchInput.removeAttribute("list");
+                searchInput.setAttribute("list", "autocomplete-dataset");
+            });
+        }
+    });
+  })();
 })();
 
