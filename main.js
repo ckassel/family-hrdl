@@ -11962,8 +11962,8 @@ var app = (function() {
       function(e) {
         let t = e.detail.currentSong;
         // console.log("current song", l);
-        n(2, (l.artist = l.correctAnswer.split(" - ")[1]), l),
-          n(2, (l.title = l.correctAnswer.split(" - ")[0]), l),
+        n(2, (l.artist = l.correctAnswer.split(" - ")[0]), l),
+          n(2, (l.title = l.correctAnswer.split(" - ")[1]), l),
           n(2, (l.img = t.artwork_url), l),
           n(2, (l.duration = t.duration), l),
           n(2, (l.genre = t.genre), l),
