@@ -9530,9 +9530,6 @@ var app = (function() {
       "Rockapella - Shape of You",
    ]),
 
-    // restate this for Safari
-    window.songs = Cn;
-    
   On = {
       subscribe: ue(
         [
