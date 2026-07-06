@@ -9529,7 +9529,11 @@ var app = (function() {
       "Take 6 - Can't Stop the Feeling",
       "Rockapella - Shape of You",
    ]),
-    On = {
+
+    // restate this for Safari
+    window.songs = Cn;
+
+  On = {
       subscribe: ue(
         [
           {
@@ -11368,7 +11372,7 @@ var app = (function() {
             url: "https://soundcloud.com/rockapella/shape-of-you",
             answer: "Rockapella - Shape of You",
           },
-],
+  ],
         Pn
       ).subscribe,
     };
@@ -12093,42 +12097,59 @@ var app = (function() {
 
   // Force-inject working event listeners onto the search field
   (function() {
-    document.addEventListener("DOMContentLoaded", () => {
-        const searchInput = document.querySelector('input[type="text"]');
-        
-        if (searchInput) {
-            searchInput.removeAttribute("autocomplete");
-            searchInput.setAttribute("list", "autocomplete-dataset");
+      document.addEventListener("DOMContentLoaded", () => {
+          const searchInput = document.querySelector('input[type="text"]');
+          
+          if (searchInput) {
+              searchInput.removeAttribute("autocomplete");
+              
+              // Create the datalist but don't bind it to the input just yet
+              const dataList = document.createElement("datalist");
+              dataList.id = "autocomplete-dataset";
+              searchInput.parentNode.insertBefore(dataList, searchInput.nextSibling);
+      
+              searchInput.addEventListener("input", (event) => {
+                  const query = event.target.value.toLowerCase();
+                  
+                  // 1. SAFARI FIX: Sever the connection so Safari drops its cached snapshot
+                  searchInput.removeAttribute("list");
+                  dataList.innerHTML = ""; 
+      
+                  const items = window.songs || []; 
+                  
+                  // 2. Robust Filtering: Handles both string arrays (like Cn) and object arrays safely
+                  const filtered = items.filter(item => {
+                      if (!item) return false;
+                      if (typeof item === 'string') {
+                          return item.toLowerCase().includes(query);
+                      }
+                      const titleMatch = item.title && item.title.toLowerCase().includes(query);
+                      const artistMatch = item.artist && item.artist.toLowerCase().includes(query);
+                      return titleMatch || artistMatch;
+                  });
+      
+                  // Populate the new options
+                  filtered.slice(0, 10).forEach(match => {
+                      const option = document.createElement("option");
+                      if (typeof match === 'string') {
+                          option.value = match;
+                      } else {
+                          option.value = `${match.artist} - ${match.title}`;
+                      }
+                      dataList.appendChild(option);
+                  });
     
-            const dataList = document.createElement("datalist");
-            dataList.id = "autocomplete-dataset";
-            
-            // FIX #1 for Safari: Insert the datalist directly next to the input field
-            searchInput.parentNode.insertBefore(dataList, searchInput.nextSibling);
-    
-            searchInput.addEventListener("input", (event) => {
-                const query = event.target.value.toLowerCase();
-                dataList.innerHTML = ""; 
-    
-                const items = window.songs || []; 
-                
-                const filtered = items.filter(item => 
-                    item.title.toLowerCase().includes(query) || 
-                    item.artist.toLowerCase().includes(query)
-                );
-    
-                filtered.slice(0, 10).forEach(match => {
-                    const option = document.createElement("option");
-                    option.value = `${match.artist} - ${match.title}`;
-                    dataList.appendChild(option);
-                });
-  
-                // FIX #2 for Safari: Clear and reset the list attribute to force a visual layout refresh
-                searchInput.removeAttribute("list");
-                searchInput.setAttribute("list", "autocomplete-dataset");
-            });
-        }
-    });
+                  // 3. SAFARI FIX: Re-attach the list attribute on the next execution cycle
+                  // This breaks Safari's rendering stall and forces an immediate visual repaint
+                  if (query.length > 0) {
+                      setTimeout(() => {
+                          searchInput.setAttribute("list", "autocomplete-dataset");
+                      }, 0);
+                  }
+              });
+          }
+      });
+    })();
   })();
 })();
 
