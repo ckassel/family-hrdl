@@ -12092,25 +12092,24 @@ var app = (function() {
   });
 
   // Force-inject working event listeners onto the search field
+(function() {
   document.addEventListener("DOMContentLoaded", () => {
       const searchInput = document.querySelector('input[type="text"]');
       
       if (searchInput) {
-          // Prevent minified state blockers from trapping keyboard input
           searchInput.removeAttribute("autocomplete");
           searchInput.setAttribute("list", "autocomplete-dataset");
   
-          // Create a native HTML5 data list element that works independently of the framework loop
           const dataList = document.createElement("datalist");
           dataList.id = "autocomplete-dataset";
-          document.body.appendChild(dataList);
+          
+          // FIX #1 for Safari: Insert the datalist directly next to the input field
+          searchInput.parentNode.insertBefore(dataList, searchInput.nextSibling);
   
-          // Fetch your custom dataset values to populate the auto-suggestions
           searchInput.addEventListener("input", (event) => {
               const query = event.target.value.toLowerCase();
-              dataList.innerHTML = ""; // Clear out previous results
+              dataList.innerHTML = ""; 
   
-              // Replace window.yourDatasetList with the global variable containing your family/song names
               const items = window.songs || []; 
               
               const filtered = items.filter(item => 
@@ -12123,6 +12122,10 @@ var app = (function() {
                   option.value = `${match.artist} - ${match.title}`;
                   dataList.appendChild(option);
               });
+
+              // FIX #2 for Safari: Clear and reset the list attribute to force a visual layout refresh
+              searchInput.removeAttribute("list");
+              searchInput.setAttribute("list", "autocomplete-dataset");
           });
       }
   });
