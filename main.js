@@ -12096,60 +12096,58 @@ var app = (function() {
   });
 
   // Force-inject working event listeners onto the search field
-  (function() {
-      document.addEventListener("DOMContentLoaded", () => {
-          const searchInput = document.querySelector('input[type="text"]');
-          
-          if (searchInput) {
-              searchInput.removeAttribute("autocomplete");
-              
-              // Create the datalist but don't bind it to the input just yet
-              const dataList = document.createElement("datalist");
-              dataList.id = "autocomplete-dataset";
-              searchInput.parentNode.insertBefore(dataList, searchInput.nextSibling);
-      
-              searchInput.addEventListener("input", (event) => {
-                  const query = event.target.value.toLowerCase();
-                  
-                  // 1. SAFARI FIX: Sever the connection so Safari drops its cached snapshot
-                  searchInput.removeAttribute("list");
-                  dataList.innerHTML = ""; 
-      
-                  const items = window.songs || []; 
-                  
-                  // 2. Robust Filtering: Handles both string arrays (like Cn) and object arrays safely
-                  const filtered = items.filter(item => {
-                      if (!item) return false;
-                      if (typeof item === 'string') {
-                          return item.toLowerCase().includes(query);
-                      }
-                      const titleMatch = item.title && item.title.toLowerCase().includes(query);
-                      const artistMatch = item.artist && item.artist.toLowerCase().includes(query);
-                      return titleMatch || artistMatch;
-                  });
-      
-                  // Populate the new options
-                  filtered.slice(0, 10).forEach(match => {
-                      const option = document.createElement("option");
-                      if (typeof match === 'string') {
-                          option.value = match;
-                      } else {
-                          option.value = `${match.artist} - ${match.title}`;
-                      }
-                      dataList.appendChild(option);
-                  });
+(function() {
+    document.addEventListener("DOMContentLoaded", () => {
+        const searchInput = document.querySelector('input[type="text"]');
+        
+        if (searchInput) {
+            searchInput.removeAttribute("autocomplete");
+            
+            // Create the datalist but don't bind it to the input just yet
+            const dataList = document.createElement("datalist");
+            dataList.id = "autocomplete-dataset";
+            searchInput.parentNode.insertBefore(dataList, searchInput.nextSibling);
     
-                  // 3. SAFARI FIX: Re-attach the list attribute on the next execution cycle
-                  // This breaks Safari's rendering stall and forces an immediate visual repaint
-                  if (query.length > 0) {
-                      setTimeout(() => {
-                          searchInput.setAttribute("list", "autocomplete-dataset");
-                      }, 0);
-                  }
-              });
-          }
-      });
-    })();
+            searchInput.addEventListener("input", (event) => {
+                const query = event.target.value.toLowerCase();
+                
+                // 1. SAFARI FIX: Sever the connection so Safari drops its cached snapshot
+                searchInput.removeAttribute("list");
+                dataList.innerHTML = ""; 
+    
+                const items = window.songs || []; 
+                
+                // 2. Robust Filtering: Handles both string arrays (like Cn) and object arrays safely
+                const filtered = items.filter(item => {
+                    if (!item) return false;
+                    if (typeof item === 'string') {
+                        return item.toLowerCase().includes(query);
+                    }
+                    const titleMatch = item.title && item.title.toLowerCase().includes(query);
+                    const artistMatch = item.artist && item.artist.toLowerCase().includes(query);
+                    return titleMatch || artistMatch;
+                });
+    
+                // Populate the new options
+                filtered.slice(0, 10).forEach(match => {
+                    const option = document.createElement("option");
+                    if (typeof match === 'string') {
+                        option.value = match;
+                    } else {
+                        option.value = `${match.artist} - ${match.title}`;
+                    }
+                    dataList.appendChild(option);
+                });
+  
+                // 3. SAFARI FIX: Re-attach the list attribute on the next execution cycle
+                // This breaks Safari's rendering stall and forces an immediate visual repaint
+                if (query.length > 0) {
+                    setTimeout(() => {
+                        searchInput.setAttribute("list", "autocomplete-dataset");
+                    }, 0);
+                }
+            });
+        }
+    });
   })();
-})();
 
