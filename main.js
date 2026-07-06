@@ -9529,10 +9529,6 @@ var app = (function() {
       "Take 6 - Can't Stop the Feeling",
       "Rockapella - Shape of You",
    ]),
-
-    // restate this for Safari
-    window.songs = Cn;
-
   On = {
       subscribe: ue(
         [
