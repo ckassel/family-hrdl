@@ -9528,6 +9528,17 @@ var app = (function() {
       "Carole King - Beautiful",
       "Take 6 - Can't Stop the Feeling",
       "Rockapella - Shape of You",
+      "George Harrison - If Not for You",
+      "The Foundations - Baby Now That I've Found You",
+      "Frankie Valli and the Four Seasons - Working My Way Back to You",
+      "John Mellencamp and Meshell Ndegeocello - Wild Night",
+      "Fats Domino - Blueberry Hill",
+      "Weezer - Africa",
+      "Lana Del Ray - Take Me Home, Country Roads",
+      "Ed Sheeran - Baby One More Time",
+      "Pentatonix feat Dolly Parton - Jolene",
+      "Sparklehorse - Wish You Were Here",
+      "Metallica - Turn the Page",
    ]),
 
   On = {
@@ -11368,6 +11379,50 @@ var app = (function() {
           {
             url: "https://soundcloud.com/rockapella/shape-of-you",
             answer: "Rockapella - Shape of You",
+          },
+          {
+            url: "https://soundcloud.com/george-harrison-official/if-not-for-you",
+            answer: "George Harrison - If Not for You",
+          },
+          {
+            url: "https://soundcloud.com/the-foundations-official/baby-now-that-ive-found-you",
+            answer: "The Foundations - Baby Now That I've Found You",
+          },
+          {
+            url: "https://soundcloud.com/frankievallithefourseasons/working-my-way-back-to-you",
+            answer: "Frankie Valli and the Four Seasons - Working My Way Back to You",
+          },
+          {
+            url: "https://soundcloud.com/john-mellencamp/wild-night-bonus-track",
+            answer: "John Mellencamp and Meshell Ndegeocello - Wild Night",
+          },
+          {
+            url: "https://soundcloud.com/fats-domino-official/blueberry-hill-1",
+            answer: "Fats Domino - Blueberry Hill",
+          },
+          {
+            url: "https://soundcloud.com/weezer/africa",
+            answer: "Weezer - Africa",
+          },
+          {
+            url: "https://soundcloud.com/lana-del-rey/take-me-home-country-roads",
+            answer: "Lana Del Ray - Take Me Home, Country Roads",
+          },
+          {
+            url: "https://soundcloud.com/laima-caica/ed-sheeran-hit-me-baby-one-more-time",
+            answer: "Ed Sheeran - Baby One More Time",
+          },
+          {
+            url: "https://soundcloud.com/ptxofficial/jolene",
+            answer: "Pentatonix feat Dolly Parton - Jolene",
+          },
+          {
+            url: "https://soundcloud.com/sparklehorse-official/wish-you-were-here",
+            answer: "Sparklehorse - Wish You Were Here",
+          },
+          {
+            url: "https://soundcloud.com/officialmetallica/turn-the-page-1",
+            answer: "Metallica - Turn the Page",
           },
   ],
         Pn
