@@ -165,15 +165,16 @@ var app = (function() {
     O().$$.on_mount.push(e);
   }
 
-  function A() {
+function A() {
     const e = O();
     return (t, n) => {
       const r = e.$$.callbacks[t];
       if (r) {
-        const s = (function(e, t, n = !1) {
-          const r = document.createEvent("CustomEvent");
-          return r.initCustomEvent(e, n, !1, t), r;
-        })(t, n);
+        const s = new CustomEvent(t, {
+          detail: n,
+          bubbles: false,
+          cancelable: false
+        });
         r.slice().forEach((t) => {
           t.call(e, s);
         });
