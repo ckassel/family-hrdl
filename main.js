@@ -9545,7 +9545,18 @@ function A() {
       "Pentatonix feat Dolly Parton - Jolene",
       "Sparklehorse - Wish You Were Here",
       "Metallica - Turn the Page",
-   ]),
+      "Stevie Wonder - Isn't She Lovely",
+      "The Byrds - The Bells of Rhymney",
+      "The Moody Blues - Question",
+      "The Rolling Stones - Get Off of My Cloud",
+      "REM - Don't Go Back to Rockville",
+      "Cream - Tales of Brave Ulysses",
+      "Eurythmics - Love Is a Stranger",
+      "Paul Simon - Slip Slidin' Away",
+      "Peter Gabriel - Kiss of Life",
+      "Genesis - Silent Sun",
+      "Simple Minds - Promised You a Miracle",
+    ]),
 
   On = {
       subscribe: ue(
@@ -11429,6 +11440,50 @@ function A() {
           {
             url: "https://soundcloud.com/officialmetallica/turn-the-page-1",
             answer: "Metallica - Turn the Page",
+          },
+          {
+            url: "https://soundcloud.com/stevie-wonder-official/isnt-she-lovely",
+            answer: "Stevie Wonder - Isn't She Lovely",
+          },
+          {
+            url: "https://soundcloud.com/thebyrds/the-bells-of-rhymney",
+            answer: "The Byrds - The Bells of Rhymney",
+          },
+          {
+            url: "https://soundcloud.com/the-moody-blues/question-full-version",
+            answer: "The Moody Blues - Question",
+          },
+          {
+            url: "https://soundcloud.com/rolling-stones-official/get-off-of-my-cloud",
+            answer: "The Rolling Stones - Get Off of My Cloud",
+          },
+          {
+            url: "https://soundcloud.com/rem-official/dont-go-back-to-rockville-do",
+            answer: "REM - Don't Go Back to Rockville",
+          },
+          {
+            url: "https://soundcloud.com/cream-official/tales-of-brave-ulysses",
+            answer: "Cream - Tales of Brave Ulysses",
+          },
+          {
+            url: "https://soundcloud.com/eurythmics-official/love-is-a-stranger-remastered",
+            answer: "Eurythmics - Love Is a Stranger",
+          },
+          {
+            url: "https://soundcloud.com/paulsimon/slip-slidin-away",
+            answer: "Paul Simon - Slip Slidin' Away",
+          },
+          {
+            url: "https://soundcloud.com/peter-gabriel-official/kiss-of-life",
+            answer: "Peter Gabriel - Kiss of Life",
+          },
+          {
+            url: "https://soundcloud.com/genesis4/silent-sun-single-version",
+            answer: "Genesis - Silent Sun",
+          },
+          {
+            url: "https://soundcloud.com/simple-minds-official/promised-you-a-miracle-2002",
+            answer: "Simple Minds - Promised You a Miracle",
           },
   ],
         Pn
