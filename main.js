@@ -9551,11 +9551,13 @@ function A() {
       "The Rolling Stones - Get Off of My Cloud",
       "REM - Don't Go Back to Rockville",
       "Cream - Tales of Brave Ulysses",
+      "Myles Smith - Stargazing",
       "Eurythmics - Love Is a Stranger",
       "Paul Simon - Slip Slidin' Away",
       "Peter Gabriel - Kiss of Life",
       "Genesis - Silent Sun",
       "Simple Minds - Promised You a Miracle",
+      "Rema and Selena Gomez - Calm Down",
     ]),
 
   On = {
@@ -11466,6 +11468,10 @@ function A() {
             answer: "Cream - Tales of Brave Ulysses",
           },
           {
+            url: "https://soundcloud.com/mylessmithuk/stargazing",
+            answer: "Myles Smith - Stargazing",
+          },
+          {
             url: "https://soundcloud.com/eurythmics-official/love-is-a-stranger-remastered",
             answer: "Eurythmics - Love Is a Stranger",
           },
@@ -11484,6 +11490,10 @@ function A() {
           {
             url: "https://soundcloud.com/simple-minds-official/promised-you-a-miracle-2002",
             answer: "Simple Minds - Promised You a Miracle",
+          },
+          {
+            url: "https://soundcloud.com/heisrema/calm-down-1",
+            answer: "Rema and Selena Gomez - Calm Down",
           },
   ],
         Pn
