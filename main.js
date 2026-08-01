@@ -9558,6 +9558,13 @@ function A() {
       "Genesis - Silent Sun",
       "Simple Minds - Promised You a Miracle",
       "Rema and Selena Gomez - Calm Down",
+      "Robert Palmer - Every Kinda People",
+      "Eagles - One of These Nights",
+      "Gordon Lightfoot - Sundown",
+      "Looking Glass - Brandy (You're a Fine Girl)",
+      "The Police - Walking on the Moon",
+      "James Taylor - Your Smiling Face",
+      "The Temptations - Just My Imagination",
     ]),
 
   On = {
@@ -11494,6 +11501,34 @@ function A() {
           {
             url: "https://soundcloud.com/heisrema/calm-down-1",
             answer: "Rema and Selena Gomez - Calm Down",
+          },
+          {
+            url: "https://soundcloud.com/robert-palmer-official/every-kinda-people-album",
+            answer: "Robert Palmer - Every Kinda People",
+          },
+          {
+            url: "https://soundcloud.com/eaglesofficial/eagles-one-of-these-nights",
+            answer: "Eagles - One of These Nights",
+          },
+          {
+            url: "https://soundcloud.com/gordonlightfootofficial/sundown",
+            answer: "Gordon Lightfoot - Sundown",
+          },
+          {
+            url: "https://soundcloud.com/lookingglassofficial/brandy-youre-a-fine-girl-1",
+            answer: "Looking Glass - Brandy (You're a Fine Girl)",
+          },
+          {
+            url: "https://soundcloud.com/the-police-official/walking-on-the-moon-2003",
+            answer: "The Police - Walking on the Moon",
+          },
+          {
+            url: "https://soundcloud.com/jamestaylorofficial/your-smiling-face-1",
+            answer: "James Taylor - Your Smiling Face",
+          },
+          {
+            url: "https://soundcloud.com/the-temptations/just-my-imagination-running-3",
+            answer: "The Temptations - Just My Imagination",
           },
   ],
         Pn
