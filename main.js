@@ -9565,6 +9565,18 @@ function A() {
       "The Police - Walking on the Moon",
       "James Taylor - Your Smiling Face",
       "The Temptations - Just My Imagination",
+      "Beethoven - Symphony No. 8, 1st mvt",
+      "Dvorak - Symphony No. 8, 1st mvt",
+      "Mendelssohn - Symphony No. 4, 1st mvt",
+      "Menotti - Shepherd's Dance from Amahl and the Night Visitors",
+      "Bach - Brandenburg Concerto No. 6, 3rd mvt",
+      "Borodin - Polovtsian Dance No. 2",
+      "Brahms - Academic Festival Overture",
+      "Gershwin - An American in Paris",
+      "Handel - Music for the Royal Fireworks",
+      "Clarke - Prince of Denmark March 'Trumpet Voluntary'",
+      "Strauss - Pizzicato-Polka",
+      "HMS Pinafore - When I Was a Lad",
     ]),
 
   On = {
@@ -11529,6 +11541,54 @@ function A() {
           {
             url: "https://soundcloud.com/the-temptations/just-my-imagination-running-3",
             answer: "The Temptations - Just My Imagination",
+          },
+          {
+            url: "https://soundcloud.com/london-symphony-orchestra/symphony-no-8-in-f-major-op-5",
+            answer: "Beethoven - Symphony No. 8, 1st mvt",
+          },
+          {
+            url: "https://soundcloud.com/abbeyroadinstitutelondon/dvorak-8th_1st-mov",
+            answer: "Dvorak - Symphony No. 8, 1st mvt",
+          },
+          {
+            url: "https://soundcloud.com/chicagosymphony/mendelssohn-symphony-no-4-in-1",
+            answer: "Mendelssohn - Symphony No. 4, 1st mvt",
+          },
+          {
+            url: "https://soundcloud.com/davidsyrus/amahl-and-the-night-visitors-1",
+            answer: "Menotti - Shepherd's Dance from Amahl and the Night Visitors",
+          },
+          {
+            url: "https://soundcloud.com/amsterdambaroqueorchestra/bach-js-brandenburg-3",
+            answer: "Bach - Brandenburg Concerto No. 6, 3rd mvt",
+          },
+          {
+            url: "https://soundcloud.com/user-254417224/cm1878",
+            answer: "Borodin - Polovtsian Dance No. 2",
+          },
+          {
+            url: "https://soundcloud.com/chicagosymphony/brahms-academic-festival-1",
+            answer: "Brahms - Academic Festival Overture",
+          },
+          {
+            url: "https://soundcloud.com/george-gershwin-official/an-american-in-paris",
+            answer: "Gershwin - An American in Paris",
+          },
+          {
+            url: "https://soundcloud.com/the-coldstream-guards-band/music-for-royal-fireworks-le",
+            answer: "Handel - Music for the Royal Fireworks",
+          },
+          {
+            url: "https://soundcloud.com/jean-francois-paillard/clarke-arr-jacques-suite-in-d",
+            answer: "Clarke - Prince of Denmark March 'Trumpet Voluntary'",
+          },
+          {
+            url: "https://soundcloud.com/eugeneormandy/pizzicato-polka-1",
+            answer: "Strauss - Pizzicato-Polka",
+          },
+          {
+            url: "https://soundcloud.com/sir-charles-mackerras/h-m-s-pinafore-act-i-song-when",
+            answer: "HMS Pinafore - When I Was a Lad",
           },
   ],
         Pn
