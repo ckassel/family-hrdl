@@ -9577,6 +9577,18 @@ function A() {
       "Clarke - Prince of Denmark March 'Trumpet Voluntary'",
       "Strauss - Pizzicato-Polka",
       "HMS Pinafore - When I Was a Lad",
+      "Fleetwood Mac - Say You Love Me",
+      "Carpenters - For All We Know",
+      "T Rex - Bang a Gong (Get It On)",
+      "Billy Joel - Big Shot",
+      "Grateful Dead - Sugar Magnolia",
+      "Foreigner - Starrider",
+      "Mountain - Mississippi Queen",
+      "Alice Cooper - School's Out",
+      "ZZ Top - Cheap Sunglasses",
+      "Linda Ronstadt - Just One Look",
+      "George Benson - Give Me the Night",
+      "Dave Edmunds - I Hear You Knocking",
     ]),
 
   On = {
@@ -11589,6 +11601,54 @@ function A() {
           {
             url: "https://soundcloud.com/sir-charles-mackerras/h-m-s-pinafore-act-i-song-when",
             answer: "HMS Pinafore - When I Was a Lad",
+          },
+          {
+            url: "https://soundcloud.com/fleetwoodmacofficial/say-you-love-me",
+            answer: "Fleetwood Mac - Say You Love Me",
+          },
+          {
+            url: "https://soundcloud.com/carpenters-official/for-all-we-know-from-lovers",
+            answer: "Carpenters - For All We Know",
+          },
+          {
+            url: "https://soundcloud.com/trex4/t-rex-bang-a-gong-get-it-on",
+            answer: "T Rex - Bang a Gong (Get It On)",
+          },
+          {
+            url: "https://soundcloud.com/billyjoel/big-shot",
+            answer: "Billy Joel - Big Shot",
+          },
+          {
+            url: "https://soundcloud.com/gratefuldead/sugar-magnolia-remastered",
+            answer: "Grateful Dead - Sugar Magnolia",
+          },
+          {
+            url: "https://soundcloud.com/foreigner/starrider",
+            answer: "Foreigner - Starrider",
+          },
+          {
+            url: "https://soundcloud.com/mountainofficial/mississippi-queen-1",
+            answer: "Mountain - Mississippi Queen",
+          },
+          {
+            url: "https://soundcloud.com/alicecooperofficial/alice-cooper-schools-out",
+            answer: "Alice Cooper - School's Out",
+          },
+          {
+            url: "https://soundcloud.com/zztopmusic/cheap-sunglasses",
+            answer: "ZZ Top - Cheap Sunglasses",
+          },
+          {
+            url: "https://soundcloud.com/lindaronstadt/just-one-look-re-mastered",
+            answer: "Linda Ronstadt - Just One Look",
+          },
+          {
+            url: "https://soundcloud.com/georgebensonofficial/give-me-the-night-original",
+            answer: "George Benson - Give Me the Night",
+          },
+          {
+            url: "https://soundcloud.com/dave-edmunds-official/i-hear-you-knocking-2",
+            answer: "Dave Edmunds - I Hear You Knocking",
           },
   ],
         Pn
