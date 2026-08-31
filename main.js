@@ -166,26 +166,17 @@ var app = (function() {
   }
 
 function A() {
-    const e = O();
-    return (t, n) => {
-      const r = e.$$.callbacks[t];
-      if (r) {
-        // Create a custom event where properties are safe to read/write across Firefox, Safari, and Chrome
-        const s = new CustomEvent(t, {
-          detail: n,
-          bubbles: false,
-          cancelable: true // Set to true to allow event cancelation across all engines safely
-        });
-        
-        // Ensure Firefox allows property definitions
-        Object.defineProperty(s, 'target', { writable: true, value: s.target });
-        
-        r.slice().forEach((t) => {
-          t.call(e, s);
-        });
-      }
-    };
-  }
+  const e = O();
+  return (t, n) => {
+    const r = e.$$.callbacks[t];
+    if (r) {
+      const s = new CustomEvent(t, { detail: n });
+      r.slice().forEach((callback) => {
+        callback.call(e, s);
+      });
+    }
+  };
+}
 
   function L(e, t) {
     const n = e.$$.callbacks[t.type];
