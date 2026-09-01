@@ -9580,6 +9580,18 @@ function A() {
       "Linda Ronstadt - Just One Look",
       "George Benson - Give Me the Night",
       "Dave Edmunds - I Hear You Knocking",
+      "David Bowie - Modern Love",
+      "Bob Seger - Hollywood Nights",
+      "Eagles - The Long Run",
+      "Deep Purple - Woman from Tokyo",
+      "Credence Clearwater Revival - Up Around the Bend",
+      "The Who - Going Mobile",
+      "Eddie Money - Two Tickets to Paradise",
+      "Green Day - Basket Case",
+      "Billy Squier - My Kinda Lover",
+      "Fleetwood Mac - Tusk",
+      "Tom Petty - Mary Jane's Last Dance",
+      "Bad Company - Can't Get Enough",
     ]),
 
   On = {
@@ -11640,6 +11652,54 @@ function A() {
           {
             url: "https://soundcloud.com/dave-edmunds-official/i-hear-you-knocking-2",
             answer: "Dave Edmunds - I Hear You Knocking",
+          },
+          {
+            url: "https://soundcloud.com/davidbowieofficial/modern-love-2018-remastered",
+            answer: "David Bowie - Modern Love",
+          },
+          {
+            url: "https://soundcloud.com/bob-seger-the-silver-bullet-band/hollywood-nights",
+            answer: "Bob Seger - Hollywood Nights",
+          },
+          {
+            url: "https://soundcloud.com/eaglesofficial/the-long-run",
+            answer: "Eagles - The Long Run",
+          },
+          {
+            url: "https://soundcloud.com/deeppurple/woman-from-tokyo",
+            answer: "Deep Purple - Woman from Tokyo",
+          },
+          {
+            url: "https://soundcloud.com/creedence-clearwater-revival/up-around-the-bend-1",
+            answer: "Credence Clearwater Revival - Up Around the Bend",
+          },
+          {
+            url: "https://soundcloud.com/thewho/going-mobile-original-album",
+            answer: "The Who - Going Mobile",
+          },
+          {
+            url: "https://soundcloud.com/eddie-money-official/two-tickets-to-paradise-1",
+            answer: "Eddie Money - Two Tickets to Paradise",
+          },
+          {
+            url: "https://soundcloud.com/greenday/basket-case",
+            answer: "Green Day - Basket Case",
+          },
+          {
+            url: "https://soundcloud.com/billy-squier-official/my-kinda-lover-2002-remaster",
+            answer: "Billy Squier - My Kinda Lover",
+          },
+          {
+            url: "https://soundcloud.com/fleetwoodmacofficial/tusk",
+            answer: "Fleetwood Mac - Tusk",
+          },
+          {
+            url: "https://soundcloud.com/tompettyandtheheartbreakers/mary-janes-last-dance",
+            answer: "Tom Petty - Mary Jane's Last Dance",
+          },
+          {
+            url: "https://soundcloud.com/badcompanymusic/cant-get-enough",
+            answer: "Bad Company - Can't Get Enough",
           },
   ],
         Pn
