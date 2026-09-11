@@ -9592,6 +9592,16 @@ function A() {
       "Fleetwood Mac - Tusk",
       "Tom Petty - Mary Jane's Last Dance",
       "Bad Company - Can't Get Enough",
+      "Dolly Parton - I Will Always Love You",
+      "Willie Nelson - Mamas Don't Let Your Babies Grow Up to Be Cowboys",
+      "Loretta Lynn - Coal Miner's Daughter",
+      "Johnny Paycheck - Take This Job and Shove It",
+      "Kenny Rogers - Coward of the County",
+      "Brooks & Dunn - Boot Scootin' Boogie",
+      "John Denver - Grandma's Feather Bed",
+      "The Bellamy Brothers - If I Said You Had a Beautiful Body Would You Hold It Against Me",
+      "Alabama - If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band)",
+      "Lyle Lovett - If I Had a Boat",
     ]),
 
   On = {
@@ -11700,6 +11710,46 @@ function A() {
           {
             url: "https://soundcloud.com/badcompanymusic/cant-get-enough",
             answer: "Bad Company - Can't Get Enough",
+          },
+          {
+            url: "https://soundcloud.com/dollyparton/i-will-always-love-you-13",
+            answer: "Dolly Parton - I Will Always Love You",
+          },
+          {
+            url: "https://soundcloud.com/willienelsonofficial/mamas-dont-let-your-babies-1",
+            answer: "Willie Nelson - Mamas Don't Let Your Babies Grow Up to Be Cowboys",
+          },
+          {
+            url: "https://soundcloud.com/loretta-lynn-official/coal-miners-daughter",
+            answer: "Loretta Lynn - Coal Miner's Daughter",
+          },
+          {
+            url: "https://soundcloud.com/johnnypaycheckofficial/take-this-job-and-shove-it-4",
+            answer: "Johnny Paycheck - Take This Job and Shove It",
+          },
+          {
+            url: "https://soundcloud.com/officialkennyrogers/coward-of-the-county",
+            answer: "Kenny Rogers - Coward of the County",
+          },
+          {
+            url: "https://soundcloud.com/brooks-dunn-official/boot-scootin-boogie-1",
+            answer: "Brooks & Dunn - Boot Scootin' Boogie",
+          },
+          {
+            url: "https://soundcloud.com/john-denver-official/grandmas-feather-bed-1",
+            answer: "John Denver - Grandma's Feather Bed",
+          },
+          {
+            url: "https://soundcloud.com/bellamy-brothers/if-i-said-you-had-a",
+            answer: "The Bellamy Brothers - If I Said You Had a Beautiful Body Would You Hold It Against Me",
+          },
+          {
+            url: "https://soundcloud.com/turnpiketroubadours/if-youre-gonna-play-in-texas",
+            answer: "Alabama - If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band)",
+          },
+          {
+            url: "https://soundcloud.com/lyle-lovett-official/if-i-had-a-boat",
+            answer: "Lyle Lovett - If I Had a Boat",
           },
   ],
         Pn
