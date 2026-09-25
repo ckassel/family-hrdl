@@ -9602,6 +9602,20 @@ function A() {
       "The Bellamy Brothers - If I Said You Had a Beautiful Body Would You Hold It Against Me",
       "Alabama - If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band)",
       "Lyle Lovett - If I Had a Boat",
+      "Bad Company - Rock 'n' Roll Fantasy",
+      "Billy Idol - Eyes without a Face",
+      "Credence Clearwater Revival - Travelin' Band",
+      "Jethro Tull - Too Old to Rock 'n' Roll: Too Young to Die!",
+      "James Brown - I Got You (I Feel Good)",
+      "The Animals - It's My Life",
+      "Rolling Stones - It's All Over Now",
+      "Bryan Adams - Cuts like a Knife",
+      "The Cars - Good Times Roll",
+      "The Police - Invisible Sun",
+      "The Who - I Can't Explain",
+      "Bob Seger - Still the Same",
+      "Pink Floyd - Welcome to the Machine",
+      "Santana feat Rob Thomas - Smooth",
     ]),
 
   On = {
@@ -11750,6 +11764,62 @@ function A() {
           {
             url: "https://soundcloud.com/lyle-lovett-official/if-i-had-a-boat",
             answer: "Lyle Lovett - If I Had a Boat",
+          },
+          {
+            url: "https://soundcloud.com/badcompanymusic/rock-n-roll-fantasy-remastered",
+            answer: "Bad Company - Rock 'n' Roll Fantasy",
+          },
+          {
+            url: "https://soundcloud.com/official-billy-idol/eyes-without-a-face",
+            answer: "Billy Idol - Eyes without a Face",
+          },
+          {
+            url: "https://soundcloud.com/creedence-clearwater-revival/travelin-band-1",
+            answer: "Credence Clearwater Revival - Travelin' Band",
+          },
+          {
+            url: "https://soundcloud.com/jethrotullmusic/too-old-to-rock-n-roll-2002",
+            answer: "Jethro Tull - Too Old to Rock 'n' Roll: Too Young to Die!",
+          },
+          {
+            url: "https://soundcloud.com/james-brown-music/i-got-you-i-feel-good-8",
+            answer: "James Brown - I Got You (I Feel Good)",
+          },
+          {
+            url: "https://soundcloud.com/the-animals-official/its-my-life-154177155",
+            answer: "The Animals - It's My Life",
+          },
+          {
+            url: "https://soundcloud.com/rolling-stones-official/its-all-over-now-original",
+            answer: "Rolling Stones - It's All Over Now",
+          },
+          {
+            url: "https://soundcloud.com/bryanadams/cuts-like-a-knife",
+            answer: "Bryan Adams - Cuts like a Knife",
+          },
+          {
+            url: "https://soundcloud.com/thecarsofficial/good-times-roll",
+            answer: "The Cars - Good Times Roll",
+          },
+          {
+            url: "https://soundcloud.com/the-police-official/invisible-sun-2003-stereo",
+            answer: "The Police - Invisible Sun",
+          },
+          {
+            url: "https://soundcloud.com/thewho/i-cant-explain-3",
+            answer: "The Who - I Can't Explain",
+          },
+          {
+            url: "https://soundcloud.com/bob-seger-the-silver-bullet-band/still-the-same",
+            answer: "Bob Seger - Still the Same",
+          },
+          {
+            url: "https://soundcloud.com/officialpinkfloyd/welcome-to-the-machine-2011",
+            answer: "Pink Floyd - Welcome to the Machine",
+          },
+          {
+            url: "https://soundcloud.com/santana-official/smooth",
+            answer: "Santana feat Rob Thomas - Smooth",
           },
   ],
         Pn
