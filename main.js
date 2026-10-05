@@ -9622,6 +9622,10 @@ function A() {
       "The Stray Cats - Sexy and 17",
       "David Gilmour - Cruise",
       "Pink Floyd - On the Turning Away",
+      "The Beatles - Yellow Submarine",
+      "The Who - Boris the Spider",
+      "Jefferson Airplane - Volunteers",
+      "Grateful Dead - U.S. Blues",
     ]),
 
   On = {
@@ -11850,6 +11854,22 @@ function A() {
           {
             url: "https://soundcloud.com/officialpinkfloyd/on-the-turning-away-2011",
             answer: "Pink Floyd - On the Turning Away",
+          },
+          {
+            url: "https://soundcloud.com/thebeatles/yellow-submarine-yellow",
+            answer: "The Beatles - Yellow Submarine",
+          },
+          {
+            url: "https://soundcloud.com/thewho/boris-the-spider-1",
+            answer: "The Who - Boris the Spider",
+          },
+          {
+            url: "https://soundcloud.com/jefferson-airplane-official/volunteers-remastered",
+            answer: "Jefferson Airplane - Volunteers",
+          },
+          {
+            url: "https://soundcloud.com/gratefuldead/u-s-blues-1",
+            answer: "Grateful Dead - U.S. Blues",
           },
   ],
         Pn
