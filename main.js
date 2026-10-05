@@ -9616,6 +9616,12 @@ function A() {
       "Bob Seger - Still the Same",
       "Pink Floyd - Welcome to the Machine",
       "Santana feat Rob Thomas - Smooth",
+      "Jimi Hendrix - Are You Experienced?",
+      "Pat Benatar - Promises in the Dark",
+      "Crosby, Stills, Nash, and Young - Carry On",
+      "The Stray Cats - Sexy and 17",
+      "David Gilmour - Cruise",
+      "Pink Floyd - On the Turning Away",
     ]),
 
   On = {
@@ -11820,6 +11826,30 @@ function A() {
           {
             url: "https://soundcloud.com/santana-official/smooth",
             answer: "Santana feat Rob Thomas - Smooth",
+          },
+          {
+            url: "https://soundcloud.com/jimihendrix/are-you-experienced-live-10-11",
+            answer: "Jimi Hendrix - Are You Experienced?",
+          },
+          {
+            url: "https://soundcloud.com/pat-benatar-official/promises-in-the-dark",
+            answer: "Pat Benatar - Promises in the Dark",
+          },
+          {
+            url: "https://soundcloud.com/crosbystillsandnash/carry-on-2",
+            answer: "Crosby, Stills, Nash, and Young - Carry On",
+          },
+          {
+            url: "https://soundcloud.com/stray-cats-official/shes-sexy-17",
+            answer: "The Stray Cats - Sexy and 17",
+          },
+          {
+            url: "https://soundcloud.com/david-gilmour-official/cruise-2006-remastered-version",
+            answer: "David Gilmour - Cruise",
+          },
+          {
+            url: "https://soundcloud.com/officialpinkfloyd/on-the-turning-away-2011",
+            answer: "Pink Floyd - On the Turning Away",
           },
   ],
         Pn
