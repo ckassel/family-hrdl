@@ -9626,6 +9626,21 @@ function A() {
       "The Who - Boris the Spider",
       "Jefferson Airplane - Volunteers",
       "Grateful Dead - U.S. Blues",
+      "The Turtles - Happy Together",
+      "The Isley Brothers - This Old Heart Of Mine (Is Weak For You)",
+      "Wilson Pickett - Mustang Sally",
+      "Smokey Robinson & the Miracles - I Second That Emotion",
+      "The Drifters - This Magic Moment",
+      "Elton John - Daniel",
+      "The Mamas & the Papas - Monday Monday",
+      "Bruce Springsteen - Tenth Avenue Freeze-Out",
+      "Fleetwood Mac - You Make Loving Fun",
+      "Aretha Franklin - Think",
+      "The Beach Boys - I Get Around",
+      "Little Richard - Long Tall Sally",
+      "The Monkees - Last Train to Clarksville",
+      "Unknown Artist - Do Wah Diddy",
+      "The Lovin' Spoonful - Do You Believe in Magic?",
     ]),
 
   On = {
@@ -11870,6 +11885,66 @@ function A() {
           {
             url: "https://soundcloud.com/gratefuldead/u-s-blues-1",
             answer: "Grateful Dead - U.S. Blues",
+          },
+          {
+            url: "https://soundcloud.com/the-turtles/happy-together-4",
+            answer: "The Turtles - Happy Together",
+          },
+          {
+            url: "https://soundcloud.com/theisleybrothers/this-old-heart-of-mine-is",
+            answer: "The Isley Brothers - This Old Heart Of Mine (Is Weak For You)",
+          },
+          {
+            url: "https://soundcloud.com/wilsonpickett/wilson-pickett-mustang-sally",
+            answer: "Wilson Pickett - Mustang Sally",
+          },
+          {
+            url: "https://soundcloud.com/smokey-robinson-the-miracles/i-second-that-emotion",
+            answer: "Smokey Robinson & the Miracles - I Second That Emotion",
+          },
+          {
+            url: "https://soundcloud.com/thedrifters/this-magic-moment",
+            answer: "The Drifters - This Magic Moment",
+          },
+          {
+            url: "https://soundcloud.com/elton-john/daniel",
+            answer: "Elton John - Daniel",
+          },
+          {
+            url: "https://soundcloud.com/the-mamas-the-papas/monday-monday-3",
+            answer: "The Mamas & the Papas - Monday Monday",
+          },
+          {
+            url: "https://soundcloud.com/brucespringsteen/tenth-avenue-freeze-out",
+            answer: "Bruce Springsteen - Tenth Avenue Freeze-Out",
+          },
+          {
+            url: "https://soundcloud.com/fleetwoodmacofficial/you-make-loving-fun",
+            answer: "Fleetwood Mac - You Make Loving Fun",
+          },
+          {
+            url: "https://soundcloud.com/arethafranklin/think",
+            answer: "Aretha Franklin - Think",
+          },
+          {
+            url: "https://soundcloud.com/thebeachboys/i-get-around-3",
+            answer: "The Beach Boys - I Get Around",
+          },
+          {
+            url: "https://soundcloud.com/littlerichardofficial/long-tall-sally-1",
+            answer: "Little Richard - Long Tall Sally",
+          },
+          {
+            url: "https://soundcloud.com/themonkees/last-train-to-clarksville",
+            answer: "The Monkees - Last Train to Clarksville",
+          },
+          {
+            url: "https://soundcloud.com/thefabuloussixtiesrockshow/do-wah-diddy",
+            answer: "Unknown Artist - Do Wah Diddy",
+          },
+          {
+            url: "https://soundcloud.com/the-lovin-spoonful/do-you-believe-in-magic",
+            answer: "The Lovin' Spoonful - Do You Believe in Magic?",
           },
   ],
         Pn
